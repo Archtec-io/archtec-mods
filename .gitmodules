@@ -1,0 +1,3 @@
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/mt-mods/travelnet/
