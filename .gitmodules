@@ -7,3 +7,60 @@
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://github.com/minetest-mirrors/mobs_redo
+[submodule "airutils"]
+	path = airutils
+	url = https://github.com/APercy/airutils
+[submodule "anvil"]
+	path = anvil
+	url = https://github.com/minetest-mods/anvil
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas
+[submodule "atm"]
+	path = atm
+	url = https://github.com/mt-mods/atm
+[submodule "auroras"]
+	path = auroras
+	url = https://github.com/random-geek/auroras
+[submodule "awards"]
+	path = awards
+	url = https://gitlab.com/rubenwardy/awards
+[submodule "bakedclay"]
+	path = bakedclay
+	url = https://github.com/minetest-mirrors/bakedclay
+[submodule "banners"]
+	path = banners
+	url = https://github.com/pandorabox-io/banners
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://github.com/mt-mods/basic_signs
+[submodule "beacon"]
+	path = beacon
+	url = https://github.com/OgelGames/beacon/
+[submodule "bees"]
+	path = bees
+	url = https://notabug.org/TenPlus1/bees
+[submodule "Biofuel"]
+	path = Biofuel
+	url = https://github.com/Lokrates/Biofuel
+[submodule "biome_lib"]
+	path = biome_lib
+	url = https://github.com/mt-mods/biome_lib
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://github.com/minetest-mirrors/bonemeal
+[submodule "bridger"]
+	path = bridger
+	url = https://github.com/v-rob/bridger
+[submodule "castle_lighting"]
+	path = castle_lighting
+	url = https://github.com/minetest-mods/castle_lighting
+[submodule "castle_masonry"]
+	path = castle_masonry
+	url = https://github.com/minetest-mods/castle_masonry
+[submodule "castle_shields"]
+	path = castle_shields
+	url = https://github.com/minetest-mods/castle_shields
