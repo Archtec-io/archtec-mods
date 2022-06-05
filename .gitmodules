@@ -337,3 +337,6 @@
 [submodule "invisible_wall"]
 	path = invisible_wall
 	url = https://github.com/Niklp09/invisible_wall
+[submodule "glass_stained"]
+	path = glass_stained
+	url = https://github.com/v-rob/glass_stained
