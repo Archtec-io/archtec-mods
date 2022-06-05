@@ -64,3 +64,276 @@
 [submodule "castle_shields"]
 	path = castle_shields
 	url = https://github.com/minetest-mods/castle_shields
+[submodule "castle_farming"]
+	path = castle_farming
+	url = https://github.com/minetest-mods/castle_farming
+[submodule "castle_gates"]
+	path = castle_gates
+	url = https://github.com/minetest-mods/castle_gates
+[submodule "castle_tapestries"]
+	path = castle_tapestries
+	url = https://github.com/minetest-mods/castle_tapestries
+[submodule "caverealms_lite"]
+	path = caverealms_lite
+	url = https://notabug.org/tenplus1/caverealms_lite
+[submodule "chatplus"]
+	path = chatplus
+	url = https://github.com/Niklp09/chatplus
+[submodule "christmas_decor"]
+	path = christmas_decor
+	url = https://github.com/GreenXenith/christmas_decor
+[submodule "claycrafter"]
+	path = claycrafter
+	url = https://github.com/Dragonop/claycrafter
+[submodule "colored_concrete"]
+	path = colored_concrete
+	url = https://github.com/Niklp09/colored_concrete
+[submodule "controls"]
+	path = controls
+	url = https://github.com/mt-mods/controls
+[submodule "crafting_bench"]
+	path = crafting_bench
+	url = https://github.com/minetest-mods/crafting_bench
+[submodule "currency"]
+	path = currency
+	url = https://github.com/mt-mods/currency
+[submodule "darkage"]
+	path = darkage
+	url = https://github.com/adrido/darkage
+[submodule "death_messages"]
+	path = death_messages
+	url = https://github.com/4Evergreen4/death_messages
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "digiterms"]
+	path = digiterms
+	url = https://github.com/pyrollo/digiterms
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/pyrollo/display_modpack
+[submodule "dreambuilder_hotbar"]
+	path = dreambuilder_hotbar
+	url = https://github.com/mt-mods/dreambuilder_hotbar
+[submodule "fachwerk"]
+	path = fachwerk
+	url = https://github.com/joe7575/fachwerk
+[submodule "farming"]
+	path = farming
+	url = https://notabug.org/TenPlus1/farming.git
+[submodule "feldweg"]
+	path = feldweg
+	url = https://github.com/niklp09/feldweg
+[submodule "framedglass"]
+	path = framedglass
+	url = https://github.com/minetest-mods/framedglass
+[submodule "function_delayer"]
+	path = function_delayer
+	url = https://github.com/HybridDog/function_delayer
+[submodule "graystone"]
+	path = graystone
+	url = https://github.com/niklp09/graystone
+[submodule "greek"]
+	path = greek
+	url = https://github.com/GreenXenith/greek
+[submodule "hangglider"]
+	path = hangglider
+	url = https://github.com/mt-mods/hangglider
+[submodule "headanim"]
+	path = headanim
+	url = https://github.com/LoneWolfHT/headanim/
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://github.com/mt-mods/homedecor_modpack
+[submodule "home_workshop_modpack"]
+	path = home_workshop_modpack
+	url = https://github.com/mt-mods/home_workshop_modpack
+[submodule "hopper"]
+	path = hopper
+	url = https://notabug.org/TenPlus1/hopper.git
+[submodule "minetest_hudbars"]
+	path = minetest_hudbars
+	url = https://repo.or.cz/minetest_hudbars.git
+[submodule "ilights"]
+	path = ilights
+	url = https://github.com/mt-mods/ilights
+[submodule "intllib"]
+	path = intllib
+	url = https://github.com/minetest-mods/intllib
+[submodule "invsaw"]
+	path = invsaw
+	url = https://cheapiesystems.com/git/invsaw/
+[submodule "itemframes"]
+	path = itemframes
+	url = https://notabug.org/TenPlus1/itemframes.git
+[submodule "jonez"]
+	path = jonez
+	url = https://github.com/runsy/jonez
+[submodule "jumping"]
+	path = jumping
+	url = https://github.com/minetest-mods/jumping
+[submodule "laptop"]
+	path = laptop
+	url = https://github.com/Gerold55/laptop
+[submodule "led_marquee"]
+	path = led_marquee
+	url = https://github.com/mt-mods/led_marquee
+[submodule "letters"]
+	path = letters
+	url = https://github.com/Niklp09/letters/
+[submodule "mesecons_debug"]
+	path = mesecons_debug
+	url = https://github.com/minetest-monitoring/mesecons_debug
+[submodule "mesecons_wireless"]
+	path = mesecons_wireless
+	url = https://github.com/GreenXenith/mesecons_wireless
+[submodule "minetest_hbhunger"]
+	path = minetest_hbhunger
+	url = https://repo.or.cz/minetest_hbhunger.git
+[submodule "minetest_new_glass"]
+	path = minetest_new_glass
+	url = https://github.com/6r1d/minetest_new_glass
+[submodule "minetest-smartshop"]
+	path = minetest-smartshop
+	url = https://github.com/fluxionary/minetest-smartshop
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse.git
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://notabug.org/TenPlus1/mobs_animal.git
+[submodule "mobs_monster"]
+	path = mobs_monster
+	url = https://notabug.org/TenPlus1/mobs_monster.git
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://notabug.org/TenPlus1/mobs_npc.git
+[submodule "more_coral"]
+	path = more_coral
+	url = https://github.com/NathanSalapat/more_coral
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores
+[submodule "mydoors"]
+	path = mydoors
+	url = https://github.com/minetest-mods/mydoors
+[submodule "mywalls"]
+	path = mywalls
+	url = https://github.com/minetest-mods/mywalls
+[submodule "nixie_tubes"]
+	path = nixie_tubes
+	url = https://github.com/mt-mods/nixie_tubes
+[submodule "helicopter"]
+	path = helicopter
+	url = https://github.com/APercy/helicopter
+[submodule "pkarcs"]
+	path = pkarcs
+	url = https://github.com/TumeniNodes/pkarcs
+[submodule "playerlist"]
+	path = playerlist
+	url = https://github.com/EliasFleckenstein03/playerlist
+[submodule "poshud"]
+	path = poshud
+	url = https://github.com/orwell96/poshud
+[submodule "prefab"]
+	path = prefab
+	url = https://github.com/mt-mods/prefab
+[submodule "quartz"]
+	path = quartz
+	url = https://github.com/minetest-mods/quartz
+[submodule "redef"]
+	path = redef
+	url = https://gitlab.com/4w/redef.git
+[submodule "replacer"]
+	path = replacer
+	url = https://github.com/SwissalpS/replacer
+[submodule "rgblightstone"]
+	path = rgblightstone
+	url = https://cheapiesystems.com/git/rgblightstone
+[submodule "ropes"]
+	path = ropes
+	url = https://github.com/minetest-mods/ropes
+[submodule "scaffolding"]
+	path = scaffolding
+	url = https://bitbucket.org/Infinatum/scaffolding.git
+[submodule "signs_bot"]
+	path = signs_bot
+	url = https://github.com/joe7575/signs_bot
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://github.com/mt-mods/signs_lib
+[submodule "snowsong"]
+	path = snowsong
+	url = https://github.com/tacotexmex/snowsong
+[submodule "stripped_tree"]
+	path = stripped_tree
+	url = https://github.com/minefaco/stripped_tree
+[submodule "compost"]
+	path = compost
+	url = https://github.com/joe7575/compost
+[submodule "lcdlib"]
+	path = lcdlib
+	url = https://github.com/joe7575/lcdlib
+[submodule "minecart"]
+	path = minecart
+	url = https://github.com/joe7575/minecart
+[submodule "networks"]
+	path = networks
+	url = https://github.com/joe7575/networks
+[submodule "safer_lua"]
+	path = safer_lua
+	url = https://github.com/joe7575/safer_lua
+[submodule "techage"]
+	path = techage
+	url = https://github.com/joe7575/techage
+[submodule "techpack_stairway"]
+	path = techpack_stairway
+	url = https://github.com/joe7575/techpack_stairway
+[submodule "ta4_addons"]
+	path = ta4_addons
+	url = https://github.com/Thomas--S/ta4_addons
+[submodule "telemosaic"]
+	path = telemosaic
+	url = https://github.com/mt-mods/telemosaic
+[submodule "titanium"]
+	path = titanium
+	url = https://github.com/HybridDog/titanium
+[submodule "towercrane"]
+	path = towercrane
+	url = https://github.com/joe7575/towercrane
+[submodule "tubelib2"]
+	path = tubelib2
+	url = https://github.com/joe7575/tubelib2
+[submodule "ts_furniture"]
+	path = ts_furniture
+	url = https://github.com/minetest-mods/ts_furniture
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
+[submodule "unified_inventory_plus"]
+	path = unified_inventory_plus
+	url = https://github.com/bousket/unified_inventory_plus
+[submodule "unifiedbricks"]
+	path = unifiedbricks
+	url = https://github.com/minetest-mods/unifiedbricks
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://github.com/mt-mods/unifieddyes
+[submodule "wine"]
+	path = wine
+	url = https://notabug.org/TenPlus1/wine.git
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2
+[submodule "xcoal"]
+	path = xcoal
+	url = https://gitlab.com/4w/xcoal.git
+[submodule "xdecor"]
+	path = xdecor
+	url = https://github.com/minetest-mods/xdecor
