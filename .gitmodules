@@ -9,7 +9,7 @@
 	url = https://github.com/minetest-mods/mesecons
 [submodule "mobs_redo"]
 	path = mobs_redo
-	url = https://github.com/minetest-mirrors/mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo
 [submodule "airutils"]
 	path = airutils
 	url = https://github.com/APercy/airutils
@@ -27,7 +27,7 @@
 	url = https://github.com/random-geek/auroras
 [submodule "awards"]
 	path = awards
-	url = https://gitlab.com/rubenwardy/awards
+	url = https://gitlab.com/rubenwardy/awards.git
 [submodule "bakedclay"]
 	path = bakedclay
 	url = https://github.com/minetest-mirrors/bakedclay
