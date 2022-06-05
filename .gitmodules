@@ -346,3 +346,6 @@
 [submodule "scifi_nodes_unregister"]
 	path = scifi_nodes_unregister
 	url = https://github.com/Niklp09/scifi_nodes_unregister
+[submodule "dummies"]
+	path = dummies
+	url = https://github.com/Niklp09/dummies
