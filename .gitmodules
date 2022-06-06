@@ -352,3 +352,6 @@
 [submodule "facade"]
 	path = facade
 	url = https://github.com/Niklp09/facade
+[submodule "technic_cnc"]
+	path = technic_cnc
+	url = https://github.com/Archtec-io/technic_cnc
