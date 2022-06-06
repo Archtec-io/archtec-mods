@@ -355,3 +355,6 @@
 [submodule "technic_cnc"]
 	path = technic_cnc
 	url = https://github.com/Archtec-io/technic_cnc
+[submodule "fireworkz"]
+	path = fireworkz
+	url = https://github.com/runsy/fireworkz
