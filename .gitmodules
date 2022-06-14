@@ -361,3 +361,6 @@
 [submodule "windchimes"]
 	path = windchimes
 	url = https://git.minetest.org/GreenXenith/windchimes
+[submodule "cblocks"]
+	path = cblocks
+	url = https://notabug.org/TenPlus1/cblocks.git
