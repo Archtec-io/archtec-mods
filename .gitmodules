@@ -364,3 +364,6 @@
 [submodule "cblocks"]
 	path = cblocks
 	url = https://notabug.org/TenPlus1/cblocks.git
+[submodule "armor-skins-and-wielditems"]
+	path = armor-skins-and-wielditems
+	url = https://github.com/Archtec-io/armor-skins-and-wielditems
