@@ -367,3 +367,6 @@
 [submodule "armor-skins-and-wielditems"]
 	path = armor-skins-and-wielditems
 	url = https://github.com/Archtec-io/armor-skins-and-wielditems
+[submodule "archtec"]
+	path = archtec
+	url = https://github.com/Archtec-io/archtec
