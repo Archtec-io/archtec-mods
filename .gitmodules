@@ -370,3 +370,6 @@
 [submodule "archtec"]
 	path = archtec
 	url = https://github.com/Archtec-io/archtec
+[submodule "moretrees"]
+	path = moretrees
+	url = https://github.com/mt-mods/moretrees
