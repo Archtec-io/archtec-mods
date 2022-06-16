@@ -385,3 +385,6 @@
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
 	url = https://github.com/Niklp09/plantlife_modpack
+[submodule "item_drop"]
+	path = item_drop
+	url = https://github.com/minetest-mods/item_drop
