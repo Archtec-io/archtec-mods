@@ -370,3 +370,9 @@
 [submodule "archtec"]
 	path = archtec
 	url = https://github.com/Archtec-io/archtec
+[submodule "ma_pops_furniture"]
+	path = ma_pops_furniture
+	url = https://github.com/Niklp09/ma_pops_furniture
+[submodule "abriglass"]
+	path = abriglass
+	url = https://github.com/Ezhh/abriglass
