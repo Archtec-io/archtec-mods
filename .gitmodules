@@ -373,3 +373,6 @@
 [submodule "moretrees"]
 	path = moretrees
 	url = https://github.com/mt-mods/moretrees
+[submodule "plantlife_modpack"]
+	path = plantlife_modpack
+	url = https://github.com/Niklp09/plantlife_modpack
