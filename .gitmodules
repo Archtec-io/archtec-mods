@@ -376,3 +376,6 @@
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
 	url = https://github.com/Niklp09/plantlife_modpack
+[submodule "cool_trees"]
+	path = cool_trees
+	url = https://github.com/Niklp09/cool_trees
