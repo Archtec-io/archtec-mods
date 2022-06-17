@@ -388,6 +388,3 @@
 [submodule "item_drop"]
 	path = item_drop
 	url = https://github.com/minetest-mods/item_drop
-[submodule "computer_deco"]
-	path = computer_deco
-	url = https://github.com/v-rob/computer_deco
