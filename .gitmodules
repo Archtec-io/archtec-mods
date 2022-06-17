@@ -120,7 +120,7 @@
 	url = https://notabug.org/TenPlus1/farming.git
 [submodule "feldweg"]
 	path = feldweg
-	url = https://github.com/niklp09/feldweg
+	url = https://github.com/Niklp09/feldweg
 [submodule "framedglass"]
 	path = framedglass
 	url = https://github.com/minetest-mods/framedglass
@@ -129,7 +129,7 @@
 	url = https://github.com/HybridDog/function_delayer
 [submodule "graystone"]
 	path = graystone
-	url = https://github.com/niklp09/graystone
+	url = https://github.com/Niklp09/graystone
 [submodule "greek"]
 	path = greek
 	url = https://github.com/GreenXenith/greek
@@ -237,7 +237,7 @@
 	url = https://github.com/EliasFleckenstein03/playerlist
 [submodule "poshud"]
 	path = poshud
-	url = https://github.com/orwell96/poshud
+	url = https://github.com/Niklp09/poshud
 [submodule "prefab"]
 	path = prefab
 	url = https://github.com/mt-mods/prefab
@@ -327,7 +327,7 @@
 	url = https://notabug.org/TenPlus1/wine.git
 [submodule "xban2"]
 	path = xban2
-	url = https://github.com/minetest-mods/xban2
+	url = https://github.com/Niklp09/xban2
 [submodule "xcoal"]
 	path = xcoal
 	url = https://gitlab.com/4w/xcoal.git
