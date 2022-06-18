@@ -27,7 +27,7 @@
 	url = https://github.com/random-geek/auroras
 [submodule "awards"]
 	path = awards
-	url = https://gitlab.com/rubenwardy/awards.git
+	url = https://gitlab.com/Niklp09/awards
 [submodule "bakedclay"]
 	path = bakedclay
 	url = https://github.com/minetest-mirrors/bakedclay
