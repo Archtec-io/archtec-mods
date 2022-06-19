@@ -97,9 +97,6 @@
 [submodule "darkage"]
 	path = darkage
 	url = https://github.com/Niklp09/darkage
-[submodule "death_messages"]
-	path = death_messages
-	url = https://github.com/4Evergreen4/death_messages
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines
