@@ -258,7 +258,7 @@
 	url = https://bitbucket.org/Infinatum/scaffolding.git
 [submodule "signs_bot"]
 	path = signs_bot
-	url = https://github.com/joe7575/signs_bot
+	url = https://github.com/Niklp09/signs_bot
 [submodule "signs_lib"]
 	path = signs_lib
 	url = https://github.com/mt-mods/signs_lib
