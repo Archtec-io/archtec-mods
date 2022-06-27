@@ -10,9 +10,6 @@
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://notabug.org/TenPlus1/mobs_redo
-[submodule "airutils"]
-	path = airutils
-	url = https://github.com/APercy/airutils
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/minetest-mods/anvil
