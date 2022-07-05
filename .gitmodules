@@ -294,7 +294,7 @@
 	url = https://github.com/mt-mods/telemosaic
 [submodule "titanium"]
 	path = titanium
-	url = https://github.com/HybridDog/titanium
+	url = https://github.com/Niklp09/titanium
 [submodule "towercrane"]
 	path = towercrane
 	url = https://github.com/joe7575/towercrane
