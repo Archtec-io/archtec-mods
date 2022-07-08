@@ -382,3 +382,6 @@
 [submodule "emote"]
 	path = emote
 	url = https://github.com/minetest-mods/emote
+[submodule "teleport-request"]
+	path = teleport-request
+	url = https://github.com/minetest-mods/teleport-request
