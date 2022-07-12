@@ -99,7 +99,7 @@
 	url = https://github.com/pyrollo/digiterms
 [submodule "display_modpack"]
 	path = display_modpack
-	url = https://github.com/pyrollo/display_modpack
+	url = https://github.com/Niklp09/display_modpack
 [submodule "dreambuilder_hotbar"]
 	path = dreambuilder_hotbar
 	url = https://github.com/mt-mods/dreambuilder_hotbar
