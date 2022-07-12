@@ -385,3 +385,6 @@
 [submodule "minetest_cups"]
 	path = minetest_cups
 	url = https://repo.or.cz/minetest_cups.git
+[submodule "technic_chests"]
+	path = technic_chests
+	url = https://github.com/Niklp09/technic_chests
