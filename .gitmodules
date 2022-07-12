@@ -234,7 +234,7 @@
 	url = https://github.com/mt-mods/prefab
 [submodule "quartz"]
 	path = quartz
-	url = https://github.com/minetest-mods/quartz
+	url = https://github.com/Niklp09/quartz
 [submodule "redef"]
 	path = redef
 	url = https://gitlab.com/4w/redef.git
