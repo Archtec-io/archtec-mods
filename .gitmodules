@@ -148,9 +148,6 @@
 [submodule "intllib"]
 	path = intllib
 	url = https://github.com/minetest-mods/intllib
-[submodule "invsaw"]
-	path = invsaw
-	url = https://cheapiesystems.com/git/invsaw/
 [submodule "itemframes"]
 	path = itemframes
 	url = https://notabug.org/TenPlus1/itemframes.git
@@ -199,9 +196,6 @@
 [submodule "more_coral"]
 	path = more_coral
 	url = https://github.com/NathanSalapat/more_coral
-[submodule "moreblocks"]
-	path = moreblocks
-	url = https://github.com/minetest-mods/moreblocks
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights
@@ -385,3 +379,7 @@
 [submodule "technic_chests"]
 	path = technic_chests
 	url = https://github.com/Niklp09/technic_chests
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/Niklp09/moreblocks
+	branch = bugfixes
