@@ -325,12 +325,6 @@
 [submodule "glass_stained"]
 	path = glass_stained
 	url = https://github.com/v-rob/glass_stained
-[submodule "scifi_nodes"]
-	path = scifi_nodes
-	url = https://github.com/Niklp09/scifi_nodes
-[submodule "scifi_nodes_unregister"]
-	path = scifi_nodes_unregister
-	url = https://github.com/Niklp09/scifi_nodes_unregister
 [submodule "dummies"]
 	path = dummies
 	url = https://github.com/Niklp09/dummies
