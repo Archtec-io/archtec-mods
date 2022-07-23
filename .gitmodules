@@ -216,7 +216,7 @@
 	url = https://github.com/APercy/helicopter
 [submodule "pkarcs"]
 	path = pkarcs
-	url = https://github.com/TumeniNodes/pkarcs
+	url = https://github.com/Niklp09/pkarcs
 [submodule "playerlist"]
 	path = playerlist
 	url = https://github.com/EliasFleckenstein03/playerlist
