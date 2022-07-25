@@ -157,9 +157,6 @@
 [submodule "jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping
-[submodule "laptop"]
-	path = laptop
-	url = https://github.com/Gerold55/laptop
 [submodule "led_marquee"]
 	path = led_marquee
 	url = https://github.com/mt-mods/led_marquee
