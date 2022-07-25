@@ -34,9 +34,6 @@
 [submodule "bees"]
 	path = bees
 	url = https://notabug.org/TenPlus1/bees
-[submodule "Biofuel"]
-	path = Biofuel
-	url = https://github.com/Lokrates/Biofuel
 [submodule "biome_lib"]
 	path = biome_lib
 	url = https://github.com/mt-mods/biome_lib
