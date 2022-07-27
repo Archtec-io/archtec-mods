@@ -371,3 +371,6 @@
 	path = moreblocks
 	url = https://github.com/Niklp09/moreblocks
 	branch = bugfixes
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids
