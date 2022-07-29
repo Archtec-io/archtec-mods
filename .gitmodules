@@ -115,9 +115,6 @@
 [submodule "framedglass"]
 	path = framedglass
 	url = https://github.com/minetest-mods/framedglass
-[submodule "function_delayer"]
-	path = function_delayer
-	url = https://github.com/HybridDog/function_delayer
 [submodule "graystone"]
 	path = graystone
 	url = https://github.com/Niklp09/graystone
