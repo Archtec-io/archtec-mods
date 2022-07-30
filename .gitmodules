@@ -371,3 +371,6 @@
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/minetest-mods/player_monoids
+[submodule "autobahn"]
+	path = autobahn
+	url = https://github.com/joe7575/autobahn
