@@ -374,3 +374,6 @@
 [submodule "autobahn"]
 	path = autobahn
 	url = https://github.com/joe7575/autobahn
+[submodule "redwood"]
+	path = redwood
+	url = https://github.com/mt-mods/redwood
