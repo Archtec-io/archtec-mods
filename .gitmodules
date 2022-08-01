@@ -138,7 +138,7 @@
 	url = https://notabug.org/TenPlus1/hopper.git
 [submodule "minetest_hudbars"]
 	path = minetest_hudbars
-	url = https://repo.or.cz/minetest_hudbars.git
+	url = https://codeberg.org/Wuzzy/minetest_hudbars.git
 [submodule "ilights"]
 	path = ilights
 	url = https://github.com/mt-mods/ilights
@@ -168,7 +168,7 @@
 	url = https://github.com/GreenXenith/mesecons_wireless
 [submodule "minetest_hbhunger"]
 	path = minetest_hbhunger
-	url = https://repo.or.cz/minetest_hbhunger.git
+	url = https://codeberg.org/Wuzzy/minetest_hbhunger.git
 [submodule "minetest_new_glass"]
 	path = minetest_new_glass
 	url = https://github.com/6r1d/minetest_new_glass
