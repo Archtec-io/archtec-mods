@@ -211,9 +211,6 @@
 [submodule "playerlist"]
 	path = playerlist
 	url = https://github.com/EliasFleckenstein03/playerlist
-[submodule "poshud"]
-	path = poshud
-	url = https://github.com/Niklp09/poshud
 [submodule "prefab"]
 	path = prefab
 	url = https://github.com/mt-mods/prefab
