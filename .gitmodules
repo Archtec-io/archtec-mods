@@ -187,9 +187,6 @@
 [submodule "mobs_npc"]
 	path = mobs_npc
 	url = https://notabug.org/TenPlus1/mobs_npc.git
-[submodule "more_coral"]
-	path = more_coral
-	url = https://github.com/NathanSalapat/more_coral
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights
