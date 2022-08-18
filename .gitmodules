@@ -330,7 +330,7 @@
 	url = https://github.com/runsy/fireworkz
 [submodule "windchimes"]
 	path = windchimes
-	url = https://git.minetest.org/GreenXenith/windchimes
+	url = https://github.com/Archtec-io/windchimes
 [submodule "cblocks"]
 	path = cblocks
 	url = https://notabug.org/TenPlus1/cblocks.git
