@@ -196,9 +196,9 @@
 [submodule "mydoors"]
 	path = mydoors
 	url = https://github.com/minetest-mods/mydoors
-[submodule "mywalls"]
-	path = mywalls
-	url = https://github.com/minetest-mods/mywalls
+[submodule "morewalls"]
+	path = morewalls
+	url = https://github.com/Archtec-io/morewalls
 [submodule "nixie_tubes"]
 	path = nixie_tubes
 	url = https://github.com/mt-mods/nixie_tubes
