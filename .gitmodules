@@ -339,7 +339,7 @@
 	url = https://github.com/Niklp09/abriglass
 [submodule "moretrees"]
 	path = moretrees
-	url = https://github.com/mt-mods/moretrees
+	url = https://github.com/Archtec-io/moretrees
 [submodule "cool_trees"]
 	path = cool_trees
 	url = https://github.com/Niklp09/cool_trees
