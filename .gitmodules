@@ -217,9 +217,6 @@
 [submodule "quartz"]
 	path = quartz
 	url = https://github.com/Niklp09/quartz
-[submodule "redef"]
-	path = redef
-	url = https://gitlab.com/4w/redef.git
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/SwissalpS/replacer
