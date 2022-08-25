@@ -365,3 +365,6 @@
 [submodule "redwood"]
 	path = redwood
 	url = https://github.com/mt-mods/redwood
+[submodule "rebreather"]
+	path = rebreather
+	url = https://github.com/Beanzilla/rebreather
