@@ -297,7 +297,7 @@
 	url = https://github.com/Niklp09/xcoal
 [submodule "xdecor"]
 	path = xdecor
-	url = https://github.com/minetest-mods/xdecor
+	url = https://github.com/Archtec-io/xdecor
 [submodule "invisible_wall"]
 	path = invisible_wall
 	url = https://github.com/Niklp09/invisible_wall
