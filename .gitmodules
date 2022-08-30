@@ -303,7 +303,7 @@
 	url = https://github.com/Niklp09/invisible_wall
 [submodule "glass_stained"]
 	path = glass_stained
-	url = https://github.com/v-rob/glass_stained
+	url = https://github.com/OgelGames/glass_stained
 [submodule "dummies"]
 	path = dummies
 	url = https://github.com/Niklp09/dummies
