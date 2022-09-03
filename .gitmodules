@@ -90,13 +90,13 @@
 	url = https://github.com/mt-mods/currency
 [submodule "darkage"]
 	path = darkage
-	url = https://github.com/Niklp09/darkage
+	url = https://github.com/Archtec-io/darkage
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines
 [submodule "display_modpack"]
 	path = display_modpack
-	url = https://github.com/Niklp09/display_modpack
+	url = https://github.com/Archtec-io/display_modpack
 [submodule "dreambuilder_hotbar"]
 	path = dreambuilder_hotbar
 	url = https://github.com/mt-mods/dreambuilder_hotbar
@@ -225,7 +225,7 @@
 	url = https://github.com/minetest-mods/ropes
 [submodule "signs_bot"]
 	path = signs_bot
-	url = https://github.com/Niklp09/signs_bot
+	url = https://github.com/joe7575/signs_bot
 [submodule "signs_lib"]
 	path = signs_lib
 	url = https://github.com/mt-mods/signs_lib
@@ -291,7 +291,7 @@
 	url = https://notabug.org/TenPlus1/wine.git
 [submodule "xban2"]
 	path = xban2
-	url = https://github.com/Niklp09/xban2
+	url = https://github.com/Archtec-io/xban2
 [submodule "xcoal"]
 	path = xcoal
 	url = https://github.com/Niklp09/xcoal
@@ -336,10 +336,10 @@
 	url = https://github.com/Archtec-io/moretrees
 [submodule "cool_trees"]
 	path = cool_trees
-	url = https://github.com/Niklp09/cool_trees
+	url = https://github.com/Archtec-io/cool_trees
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
-	url = https://github.com/Niklp09/plantlife_modpack
+	url = https://github.com/Archtec-io/plantlife_modpack
 [submodule "item_drop"]
 	path = item_drop
 	url = https://github.com/minetest-mods/item_drop
@@ -354,7 +354,7 @@
 	url = https://github.com/Niklp09/technic_chests
 [submodule "moreblocks"]
 	path = moreblocks
-	url = https://github.com/Niklp09/moreblocks
+	url = https://github.com/Archtec-io/moreblocks
 	branch = bugfixes
 [submodule "player_monoids"]
 	path = player_monoids
