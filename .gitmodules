@@ -374,3 +374,9 @@
 [submodule "perfhud"]
 	path = perfhud
 	url = https://github.com/debagos/perfhud
+[submodule "node_entity_queue"]
+	path = node_entity_queue
+	url = https://github.com/fluxionary/minetest-node_entity_queue
+[submodule "futil"]
+	path = futil
+	url = https://github.com/fluxionary/minetest-futil
