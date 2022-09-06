@@ -380,3 +380,6 @@
 [submodule "futil"]
 	path = futil
 	url = https://github.com/fluxionary/minetest-futil
+[submodule "action_queues"]
+	path = action_queues
+	url = https://github.com/fluxionary/minetest-action_queues
