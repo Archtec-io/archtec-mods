@@ -217,9 +217,6 @@
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/SwissalpS/replacer
-[submodule "rgblightstone"]
-	path = rgblightstone
-	url = https://cheapiesystems.com/git/rgblightstone
 [submodule "ropes"]
 	path = ropes
 	url = https://github.com/minetest-mods/ropes
@@ -383,3 +380,6 @@
 [submodule "action_queues"]
 	path = action_queues
 	url = https://github.com/fluxionary/minetest-action_queues
+[submodule "digicolor"]
+	path = digicolor
+	url = https://github.com/fluxionary/minetest-digicolor
