@@ -264,7 +264,7 @@
 	url = https://github.com/Niklp09/titanium
 [submodule "towercrane"]
 	path = towercrane
-	url = https://github.com/joe7575/towercrane
+	url = https://github.com/Archtec-io/towercrane
 [submodule "tubelib2"]
 	path = tubelib2
 	url = https://github.com/joe7575/tubelib2
