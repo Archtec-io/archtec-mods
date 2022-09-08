@@ -383,3 +383,9 @@
 [submodule "digicolor"]
 	path = digicolor
 	url = https://github.com/fluxionary/minetest-digicolor
+[submodule "pride_flags"]
+	path = pride_flags
+	url = https://codeberg.org/Wuzzy/pride_flags
+[submodule "country_flags"]
+	path = country_flags
+	url = https://github.com/snowyu/minetest-country_flags
