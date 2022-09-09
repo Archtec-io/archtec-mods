@@ -386,3 +386,6 @@
 [submodule "country_flags"]
 	path = country_flags
 	url = https://github.com/snowyu/minetest-country_flags
+[submodule "ethereal"]
+	path = ethereal
+	url = https://github.com/Archtec-io/ethereal
