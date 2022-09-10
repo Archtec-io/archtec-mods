@@ -389,3 +389,6 @@
 [submodule "ethereal"]
 	path = ethereal
 	url = https://github.com/Archtec-io/ethereal
+[submodule "bones"]
+	path = bones
+	url = https://github.com/OgelGames/bones
