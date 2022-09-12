@@ -45,7 +45,7 @@
 	url = https://github.com/minetest-mirrors/bonemeal
 [submodule "bridger"]
 	path = bridger
-	url = https://github.com/v-rob/bridger
+	url = https://github.com/Archtec-io/bridger
 [submodule "castle_lighting"]
 	path = castle_lighting
 	url = https://github.com/minetest-mods/castle_lighting
@@ -336,7 +336,7 @@
 	url = https://github.com/Archtec-io/cool_trees
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
-	url = https://github.com/Archtec-io/plantlife_modpack
+	url = https://github.com/mt-mods/plantlife_modpack
 [submodule "item_drop"]
 	path = item_drop
 	url = https://github.com/minetest-mods/item_drop
