@@ -166,9 +166,6 @@
 [submodule "minetest_hbhunger"]
 	path = minetest_hbhunger
 	url = https://codeberg.org/Wuzzy/minetest_hbhunger.git
-[submodule "minetest_new_glass"]
-	path = minetest_new_glass
-	url = https://github.com/6r1d/minetest_new_glass
 [submodule "minetest-smartshop"]
 	path = minetest-smartshop
 	url = https://github.com/fluxionary/minetest-smartshop
