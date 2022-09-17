@@ -327,7 +327,7 @@
 	url = https://github.com/Archtec-io/archtec
 [submodule "abriglass"]
 	path = abriglass
-	url = https://github.com/Niklp09/abriglass
+	url = https://github.com/mt-mods/abriglass
 [submodule "moretrees"]
 	path = moretrees
 	url = https://github.com/Archtec-io/moretrees
