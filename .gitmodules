@@ -389,3 +389,6 @@
 [submodule "bones"]
 	path = bones
 	url = https://github.com/OgelGames/bones
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/minetest-mods/drawers
