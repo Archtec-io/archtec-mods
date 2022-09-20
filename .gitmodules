@@ -171,7 +171,7 @@
 	url = https://notabug.org/TenPlus1/mob_horse.git
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://notabug.org/TenPlus1/mobs_animal.git
+	url = https://github.com/archtec-io/mobs_animal
 [submodule "mobs_monster"]
 	path = mobs_monster
 	url = https://notabug.org/TenPlus1/mobs_monster.git
@@ -267,7 +267,7 @@
 	url = https://github.com/minetest-mods/ts_furniture
 [submodule "unified_inventory"]
 	path = unified_inventory
-	url = https://github.com/minetest-mods/unified_inventory
+	url = https://github.com/archtec-io/unified_inventory
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus
