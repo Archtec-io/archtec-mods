@@ -133,9 +133,6 @@
 [submodule "hopper"]
 	path = hopper
 	url = https://notabug.org/TenPlus1/hopper.git
-[submodule "minetest_hudbars"]
-	path = minetest_hudbars
-	url = https://codeberg.org/Niklp/minetest_hudbars.git
 [submodule "ilights"]
 	path = ilights
 	url = https://github.com/mt-mods/ilights
@@ -392,3 +389,6 @@
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers
+[submodule "hudbars"]
+	path = hudbars
+	url = https://github.com/Archtec-io/hudbars
