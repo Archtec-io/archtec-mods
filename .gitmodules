@@ -33,7 +33,7 @@
 	url = https://github.com/mt-mods/basic_signs
 [submodule "bees"]
 	path = bees
-	url = https://notabug.org/TenPlus1/bees
+	url = https://github.com/Archtec-io/bees
 [submodule "Biofuel"]
 	path = Biofuel
 	url = https://github.com/Lokrates/Biofuel
