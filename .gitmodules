@@ -392,3 +392,6 @@
 [submodule "hudbars"]
 	path = hudbars
 	url = https://github.com/Archtec-io/hudbars
+[submodule "ts_vehicles"]
+	path = ts_vehicles
+	url = https://github.com/Thomas--S/ts_vehicles
