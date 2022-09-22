@@ -193,9 +193,6 @@
 [submodule "nixie_tubes"]
 	path = nixie_tubes
 	url = https://github.com/mt-mods/nixie_tubes
-[submodule "helicopter"]
-	path = helicopter
-	url = https://github.com/APercy/helicopter
 [submodule "pkarcs"]
 	path = pkarcs
 	url = https://github.com/Niklp09/pkarcs
