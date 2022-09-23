@@ -171,10 +171,10 @@
 	url = https://notabug.org/TenPlus1/mob_horse.git
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://github.com/archtec-io/mobs_animal
+	url = https://github.com/Archtec-io/mobs_animal
 [submodule "mobs_monster"]
 	path = mobs_monster
-	url = https://notabug.org/TenPlus1/mobs_monster.git
+	url = https://notabug.org/Archtec-io/mobs_monster
 [submodule "mobs_npc"]
 	path = mobs_npc
 	url = https://notabug.org/TenPlus1/mobs_npc.git
