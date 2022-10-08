@@ -255,7 +255,7 @@
 	url = https://github.com/Niklp09/titanium
 [submodule "towercrane"]
 	path = towercrane
-	url = https://github.com/Archtec-io/towercrane
+	url = https://github.com/minetest-mods/towercrane
 [submodule "tubelib2"]
 	path = tubelib2
 	url = https://github.com/joe7575/tubelib2
@@ -264,7 +264,7 @@
 	url = https://github.com/minetest-mods/ts_furniture
 [submodule "unified_inventory"]
 	path = unified_inventory
-	url = https://github.com/archtec-io/unified_inventory
+	url = https://github.com/Archtec-io/unified_inventory
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus
@@ -324,7 +324,7 @@
 	url = https://github.com/Archtec-io/moretrees
 [submodule "cool_trees"]
 	path = cool_trees
-	url = https://github.com/Archtec-io/cool_trees
+	url = https://github.com/runsy/cool_trees
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
 	url = https://github.com/mt-mods/plantlife_modpack
