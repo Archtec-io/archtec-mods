@@ -15,7 +15,7 @@
 	url = https://github.com/minetest-mods/anvil
 [submodule "areas"]
 	path = areas
-	url = https://github.com/minetest-mods/areas
+	url = https://github.com/Archtec-io/areas
 [submodule "atm"]
 	path = atm
 	url = https://github.com/mt-mods/atm
