@@ -328,9 +328,6 @@
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
 	url = https://github.com/mt-mods/plantlife_modpack
-[submodule "item_drop"]
-	path = item_drop
-	url = https://github.com/minetest-mods/item_drop
 [submodule "emote"]
 	path = emote
 	url = https://github.com/minetest-mods/emote
