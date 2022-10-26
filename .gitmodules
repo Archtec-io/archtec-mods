@@ -79,9 +79,6 @@
 [submodule "colored_concrete"]
 	path = colored_concrete
 	url = https://github.com/Niklp09/colored_concrete
-[submodule "controls"]
-	path = controls
-	url = https://github.com/mt-mods/controls
 [submodule "crafting_bench"]
 	path = crafting_bench
 	url = https://github.com/minetest-mods/crafting_bench
@@ -196,9 +193,6 @@
 [submodule "pkarcs"]
 	path = pkarcs
 	url = https://github.com/Niklp09/pkarcs
-[submodule "playerlist"]
-	path = playerlist
-	url = https://github.com/EliasFleckenstein03/playerlist
 [submodule "prefab"]
 	path = prefab
 	url = https://github.com/mt-mods/prefab
