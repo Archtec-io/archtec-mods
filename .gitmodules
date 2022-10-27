@@ -157,9 +157,6 @@
 [submodule "mesecons_wireless"]
 	path = mesecons_wireless
 	url = https://github.com/GreenXenith/mesecons_wireless
-[submodule "minetest_hbhunger"]
-	path = minetest_hbhunger
-	url = https://codeberg.org/Wuzzy/minetest_hbhunger.git
 [submodule "minetest-smartshop"]
 	path = minetest-smartshop
 	url = https://github.com/fluxionary/minetest-smartshop
@@ -374,9 +371,6 @@
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers
-[submodule "hudbars"]
-	path = hudbars
-	url = https://github.com/Archtec-io/hudbars
 [submodule "streets"]
 	path = streets
 	url = https://github.com/Thomas--S/streets
