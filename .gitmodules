@@ -377,15 +377,3 @@
 [submodule "mapserver_mod"]
 	path = mapserver_mod
 	url = https://github.com/Archtec-io/mapserver_mod
-[submodule "controls"]
-	path = controls
-	url = https://github.com/mt-mods/controls
-[submodule "playerlist"]
-	path = playerlist
-	url = https://github.com/EliasFleckenstein03/playerlist
-[submodule "minetest_hbhunger"]
-	path = minetest_hbhunger
-	url = https://codeberg.org/Wuzzy/minetest_hbhunger.git
-[submodule "hudbars"]
-	path = hudbars
-	url = https://github.com/Archtec-io/hudbars
