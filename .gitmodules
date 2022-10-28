@@ -24,7 +24,7 @@
 	url = https://github.com/random-geek/auroras
 [submodule "bakedclay"]
 	path = bakedclay
-	url = https://github.com/minetest-mirrors/bakedclay
+	url = https://notabug.org/TenPlus1/bakedclay
 [submodule "banners"]
 	path = banners
 	url = https://github.com/pandorabox-io/banners
@@ -42,7 +42,7 @@
 	url = https://github.com/mt-mods/biome_lib
 [submodule "bonemeal"]
 	path = bonemeal
-	url = https://github.com/minetest-mirrors/bonemeal
+	url = https://notabug.org/TenPlus1/bonemeal
 [submodule "bridger"]
 	path = bridger
 	url = https://github.com/Archtec-io/bridger
