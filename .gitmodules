@@ -374,6 +374,3 @@
 [submodule "streets"]
 	path = streets
 	url = https://github.com/Thomas--S/streets
-[submodule "mapserver_mod"]
-	path = mapserver_mod
-	url = https://github.com/Archtec-io/mapserver_mod
