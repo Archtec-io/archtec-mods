@@ -9,7 +9,7 @@
 	url = https://github.com/minetest-mods/mesecons
 [submodule "mobs_redo"]
 	path = mobs_redo
-	url = https://notabug.org/TenPlus1/mobs_redo
+	url = https://github.com/minetest-mirrors/mobs_redo
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/minetest-mods/anvil
@@ -24,7 +24,7 @@
 	url = https://github.com/random-geek/auroras
 [submodule "bakedclay"]
 	path = bakedclay
-	url = https://notabug.org/TenPlus1/bakedclay
+	url = https://github.com/minetest-mirrors/bakedclay
 [submodule "banners"]
 	path = banners
 	url = https://github.com/pandorabox-io/banners
@@ -33,7 +33,7 @@
 	url = https://github.com/mt-mods/basic_signs
 [submodule "bees"]
 	path = bees
-	url = https://notabug.org/TenPlus1/bees
+	url = https://github.com/minetest-mirrors/bees
 [submodule "Biofuel"]
 	path = Biofuel
 	url = https://github.com/Lokrates/Biofuel
@@ -42,7 +42,7 @@
 	url = https://github.com/mt-mods/biome_lib
 [submodule "bonemeal"]
 	path = bonemeal
-	url = https://notabug.org/TenPlus1/bonemeal
+	url = https://github.com/minetest-mirrors/bonemeal
 [submodule "bridger"]
 	path = bridger
 	url = https://github.com/Archtec-io/bridger
@@ -102,7 +102,7 @@
 	url = https://github.com/joe7575/fachwerk
 [submodule "farming"]
 	path = farming
-	url = https://notabug.org/TenPlus1/farming.git
+	url = https://github.com/minetest-mirrors/farming
 [submodule "feldweg"]
 	path = feldweg
 	url = https://github.com/Niklp09/feldweg
@@ -129,7 +129,7 @@
 	url = https://github.com/mt-mods/home_workshop_modpack
 [submodule "hopper"]
 	path = hopper
-	url = https://notabug.org/TenPlus1/hopper.git
+	url = https://github.com/minetest-mirrors/hopper
 [submodule "ilights"]
 	path = ilights
 	url = https://github.com/mt-mods/ilights
@@ -138,7 +138,7 @@
 	url = https://github.com/minetest-mods/intllib
 [submodule "itemframes"]
 	path = itemframes
-	url = https://notabug.org/TenPlus1/itemframes.git
+	url = https://github.com/minetest-mirrors/itemframes
 [submodule "jonez"]
 	path = jonez
 	url = https://github.com/runsy/jonez
@@ -150,7 +150,7 @@
 	url = https://github.com/mt-mods/led_marquee
 [submodule "letters"]
 	path = letters
-	url = https://github.com/Niklp09/letters/
+	url = https://github.com/Niklp09/letters
 [submodule "mesecons_debug"]
 	path = mesecons_debug
 	url = https://github.com/minetest-monitoring/mesecons_debug
@@ -162,16 +162,16 @@
 	url = https://github.com/fluxionary/minetest-smartshop
 [submodule "mob_horse"]
 	path = mob_horse
-	url = https://notabug.org/TenPlus1/mob_horse.git
+	url = https://github.com/minetest-mirrors/mob_horse
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://notabug.org/TenPlus1/mobs_animal
+	url = https://github.com/minetest-mirrors/mobs_animal
 [submodule "mobs_monster"]
 	path = mobs_monster
-	url = https://notabug.org/TenPlus1/mobs_monster
+	url = https://github.com/minetest-mirrors/mobs_monster
 [submodule "mobs_npc"]
 	path = mobs_npc
-	url = https://notabug.org/TenPlus1/mobs_npc.git
+	url = https://github.com/minetest-mirrors/mobs_npc
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights
@@ -267,7 +267,7 @@
 	url = https://github.com/mt-mods/unifieddyes
 [submodule "wine"]
 	path = wine
-	url = https://notabug.org/TenPlus1/wine.git
+	url = https://github.com/minetest-mirrors/wine
 [submodule "xban2"]
 	path = xban2
 	url = https://github.com/Archtec-io/xban2
@@ -297,10 +297,10 @@
 	url = https://github.com/runsy/fireworkz
 [submodule "windchimes"]
 	path = windchimes
-	url = https://github.com/GreenXenith/windchimes/
+	url = https://github.com/GreenXenith/windchimes
 [submodule "cblocks"]
 	path = cblocks
-	url = https://notabug.org/TenPlus1/cblocks.git
+	url = https://github.com/minetest-mirrors/cblocks
 [submodule "armor-skins-and-wielditems"]
 	path = armor-skins-and-wielditems
 	url = https://github.com/Archtec-io/armor-skins-and-wielditems
