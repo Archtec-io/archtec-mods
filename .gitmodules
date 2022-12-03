@@ -374,3 +374,9 @@
 [submodule "streets"]
 	path = streets
 	url = https://github.com/Thomas--S/streets
+[submodule "fmod"]
+	path = fmod
+	url = https://github.com/fluxionary/minetest-fmod
+[submodule "presents"]
+	path = presents
+	url = https://github.com/debagos/presents
