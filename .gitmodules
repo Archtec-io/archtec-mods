@@ -386,3 +386,6 @@
 [submodule "castle_storage"]
 	path = castle_storage
 	url = https://github.com/minetest-mods/castle_storage
+[submodule "cottages"]
+	path = cottages
+	url = https://github.com/fluxionary/minetest-cottages
