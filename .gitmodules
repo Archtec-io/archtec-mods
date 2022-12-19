@@ -151,9 +151,6 @@
 [submodule "mesecons_debug"]
 	path = mesecons_debug
 	url = https://github.com/minetest-monitoring/mesecons_debug
-[submodule "mesecons_wireless"]
-	path = mesecons_wireless
-	url = https://github.com/GreenXenith/mesecons_wireless
 [submodule "minetest-smartshop"]
 	path = minetest-smartshop
 	url = https://github.com/fluxionary/minetest-smartshop
