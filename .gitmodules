@@ -383,3 +383,6 @@
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/fluxionary/minetest-cottages
+[submodule "choppy"]
+	path = choppy
+	url = https://github.com/fluxionary/minetest-choppy
