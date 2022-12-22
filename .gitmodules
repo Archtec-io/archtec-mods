@@ -385,4 +385,4 @@
 	url = https://github.com/fluxionary/minetest-cottages
 [submodule "choppy"]
 	path = choppy
-	url = https://github.com/fluxionary/minetest-choppy
+	url = https://github.com/Archtec-io/choppy
