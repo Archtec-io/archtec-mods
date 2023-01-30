@@ -386,3 +386,6 @@
 [submodule "choppy"]
 	path = choppy
 	url = https://github.com/Archtec-io/choppy
+[submodule "mtinfo"]
+	path = mtinfo
+	url = https://github.com/BuckarooBanzay/mtinfo
