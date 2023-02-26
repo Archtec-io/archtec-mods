@@ -100,9 +100,6 @@
 [submodule "farming"]
 	path = farming
 	url = https://github.com/minetest-mirrors/farming
-[submodule "feldweg"]
-	path = feldweg
-	url = https://github.com/Niklp09/feldweg
 [submodule "framedglass"]
 	path = framedglass
 	url = https://github.com/minetest-mods/framedglass
@@ -189,7 +186,7 @@
 	url = https://github.com/mt-mods/prefab
 [submodule "quartz"]
 	path = quartz
-	url = https://github.com/Niklp09/quartz
+	url = https://github.com/minetest-mods/quartz
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/SwissalpS/replacer
