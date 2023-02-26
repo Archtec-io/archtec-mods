@@ -319,7 +319,6 @@
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/Archtec-io/moreblocks
-	branch = bugfixes
 [submodule "autobahn"]
 	path = autobahn
 	url = https://github.com/joe7575/autobahn
