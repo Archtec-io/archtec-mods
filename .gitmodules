@@ -67,9 +67,6 @@
 [submodule "caverealms_lite"]
 	path = caverealms_lite
 	url = https://github.com/minetest-mirrors/caverealms_lite
-[submodule "chatplus"]
-	path = chatplus
-	url = https://github.com/Niklp09/chatplus
 [submodule "christmas_decor"]
 	path = christmas_decor
 	url = https://github.com/GreenXenith/christmas_decor
