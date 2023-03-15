@@ -325,9 +325,6 @@
 [submodule "rebreather"]
 	path = rebreather
 	url = https://github.com/Beanzilla/rebreather
-[submodule "ranks"]
-	path = ranks
-	url = https://github.com/Niklp09/ranks
 [submodule "perfhud"]
 	path = perfhud
 	url = https://github.com/debagos/perfhud
