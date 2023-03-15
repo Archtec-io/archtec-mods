@@ -180,7 +180,7 @@
 	url = https://github.com/mt-mods/nixie_tubes
 [submodule "pkarcs"]
 	path = pkarcs
-	url = https://github.com/Niklp09/pkarcs
+	url = https://github.com/Archtec-io/pkarcs
 [submodule "prefab"]
 	path = prefab
 	url = https://github.com/mt-mods/prefab
@@ -264,7 +264,7 @@
 	url = https://github.com/Archtec-io/xban2
 [submodule "xcoal"]
 	path = xcoal
-	url = https://github.com/Niklp09/xcoal
+	url = https://github.com/Archtec-io/xcoal
 [submodule "xdecor"]
 	path = xdecor
 	url = https://github.com/minetest-mods/xdecor
@@ -273,10 +273,10 @@
 	url = https://github.com/OgelGames/glass_stained
 [submodule "dummies"]
 	path = dummies
-	url = https://github.com/Niklp09/dummies
+	url = https://github.com/Archtec-io/dummies
 [submodule "facade"]
 	path = facade
-	url = https://github.com/Niklp09/facade
+	url = https://github.com/Archtec-io/facade
 [submodule "technic_cnc"]
 	path = technic_cnc
 	url = https://github.com/Archtec-io/technic_cnc
@@ -315,7 +315,7 @@
 	url = https://repo.or.cz/minetest_cups.git
 [submodule "technic_chests"]
 	path = technic_chests
-	url = https://github.com/Niklp09/technic_chests
+	url = https://github.com/Archtec-io/technic_chests
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/Archtec-io/moreblocks
