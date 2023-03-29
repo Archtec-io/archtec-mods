@@ -21,7 +21,7 @@
 	url = https://github.com/mt-mods/atm
 [submodule "auroras"]
 	path = auroras
-	url = https://github.com/random-geek/auroras
+	url = https://github.com/Archtec-io/auroras
 [submodule "bakedclay"]
 	path = bakedclay
 	url = https://github.com/minetest-mirrors/bakedclay
