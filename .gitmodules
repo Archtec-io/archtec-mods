@@ -231,7 +231,7 @@
 	url = https://github.com/mt-mods/telemosaic
 [submodule "titanium"]
 	path = titanium
-	url = https://github.com/Niklp09/titanium
+	url = https://github.com/Archtec-io/titanium
 [submodule "towercrane"]
 	path = towercrane
 	url = https://github.com/minetest-mods/towercrane
