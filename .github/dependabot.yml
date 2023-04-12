@@ -8,3 +8,10 @@ updates:
     timezone: "UTC"
 
   open-pull-requests-limit: 100
+
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule: 
+    interval: daily
+    time: "9:00" # Before submodule update
+    timezone: "UTC"
