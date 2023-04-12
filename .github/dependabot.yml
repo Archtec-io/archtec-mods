@@ -13,5 +13,5 @@ updates:
   directory: "/"
   schedule: 
     interval: daily
-    time: "9:00" # Before submodule update
+    time: "09:00" # Before submodule update
     timezone: "UTC"
