@@ -6,6 +6,8 @@ updates:
     interval: daily
     time: "10:10"
     timezone: "UTC"
+  labels:
+    - "dependencies"
 
   open-pull-requests-limit: 100
 
