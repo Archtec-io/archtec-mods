@@ -379,3 +379,6 @@
 [submodule "sound_api"]
 	path = sound_api
 	url = https://github.com/mt-mods/sound_api
+[submodule "playerfactions"]
+	path = playerfactions
+	url = https://github.com/mt-mods/playerfactions
