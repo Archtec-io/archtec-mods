@@ -370,6 +370,7 @@
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/fluxionary/minetest-cottages
+	branch = rework
 [submodule "choppy"]
 	path = choppy
 	url = https://github.com/Archtec-io/choppy
