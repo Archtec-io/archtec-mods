@@ -94,3 +94,10 @@ jobs:
         repo: xban2
         branch: master
         token: ${{ secrets.MERGE_KEY }}
+
+    - name: unified_inventory
+      run: ./merge.sh
+      env:
+        repo: unified_inventory
+        branch: master
+        token: ${{ secrets.MERGE_KEY }}
