@@ -307,9 +307,6 @@
 [submodule "emote"]
 	path = emote
 	url = https://github.com/minetest-mods/emote
-[submodule "minetest_cups"]
-	path = minetest_cups
-	url = https://repo.or.cz/minetest_cups.git
 [submodule "technic_chests"]
 	path = technic_chests
 	url = https://github.com/Archtec-io/technic_chests
