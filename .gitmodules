@@ -383,3 +383,6 @@
 [submodule "cups"]
 	path = cups
 	url = https://github.com/Archtec-io/cups
+[submodule "rhotator"]
+	path = rhotator
+	url = https://github.com/entuland/rhotator
