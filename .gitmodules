@@ -246,7 +246,7 @@
 	url = https://github.com/Archtec-io/unified_inventory
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
-	url = https://github.com/bousket/unified_inventory_plus
+	url = https://github.com/mt-mods/unified_inventory_plus
 [submodule "unifiedbricks"]
 	path = unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks
