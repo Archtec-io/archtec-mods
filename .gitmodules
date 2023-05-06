@@ -386,3 +386,6 @@
 [submodule "rhotator"]
 	path = rhotator
 	url = https://github.com/entuland/rhotator
+[submodule "matrix"]
+	path = matrix
+	url = https://github.com/entuland/lua-matrix
