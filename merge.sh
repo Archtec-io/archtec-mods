@@ -1,3 +1,5 @@
+#!/bin/bash
+
 res=$(curl --write-out %{http_code} -L -fsS \
   -X POST \
   -H "Accept: application/vnd.github+json" \
