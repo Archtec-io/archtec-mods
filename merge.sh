@@ -1,5 +1,3 @@
-#!/bin/bash
-
 res=$(curl --write-out %{http_code} -L -fsS \
   -X POST \
   -H "Accept: application/vnd.github+json" \
@@ -9,10 +7,10 @@ res=$(curl --write-out %{http_code} -L -fsS \
   -d '{"branch":"'${branch}'"}'
 )
 
-if [[ "$res" == 200 ]]; then
-  echo HTTP code $res
-  exit 0
-else
+if [[ "$res" == 409 ]]; then
   echo HTTP code $res
   exit 1
+else
+  echo HTTP code $res
+  exit 0
 fi
