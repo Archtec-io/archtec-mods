@@ -184,9 +184,6 @@
 [submodule "quartz"]
 	path = quartz
 	url = https://github.com/minetest-mods/quartz
-[submodule "replacer"]
-	path = replacer
-	url = https://github.com/SwissalpS/replacer
 [submodule "ropes"]
 	path = ropes
 	url = https://github.com/minetest-mods/ropes
@@ -386,3 +383,6 @@
 [submodule "matrix"]
 	path = matrix
 	url = https://github.com/entuland/lua-matrix
+[submodule "replacer"]
+	path = replacer
+	url = https://github.com/fluxionary/minetest-replacer_redo
