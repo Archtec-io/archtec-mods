@@ -87,7 +87,7 @@
 	url = https://github.com/minetest-mods/digilines
 [submodule "display_modpack"]
 	path = display_modpack
-	url = https://github.com/pyrollo/display_modpack
+	url = https://github.com/Archtec-io/display_modpack
 [submodule "dreambuilder_hotbar"]
 	path = dreambuilder_hotbar
 	url = https://github.com/mt-mods/dreambuilder_hotbar
