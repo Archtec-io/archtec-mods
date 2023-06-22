@@ -377,12 +377,9 @@
 [submodule "cups"]
 	path = cups
 	url = https://github.com/Archtec-io/cups
-[submodule "rhotator"]
-	path = rhotator
-	url = https://github.com/entuland/rhotator
-[submodule "matrix"]
-	path = matrix
-	url = https://github.com/entuland/lua-matrix
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/fluxionary/minetest-replacer_redo
+[submodule "omnidriver"]
+	path = omnidriver
+	url = https://github.com/OgelGames/omnidriver
