@@ -4,8 +4,10 @@
 json=$(curl https://api.github.com/orgs/Archtec-io/repos?per_page=100)
 names=$(echo $json | jq -r 'sort_by(.name) | map(select(.name != "Archtec-io")) | .[].name')
 
-echo "|Name|Last commit|Open issues|Open PR's|Contributors|"
-echo "|---|---|---|---|---|"
+> dashboard.md
+
+echo "|Name|Last commit|Open issues|Open PR's|Contributors|" >> dashboard.md
+echo "|---|---|---|---|---|" >> dashboard.md
 for name in ${names}
 do
     link="[${name}](https://github.com/Archtec-io/${name})"
@@ -14,5 +16,5 @@ do
     last_commit="![GitHub last commit](https://img.shields.io/github/last-commit/Archtec-io/${name})"
     open_issues="![GitHub issues](https://img.shields.io/github/issues/Archtec-io/${name})"
     open_prs="![GitHub pull requests](https://img.shields.io/github/issues-pr/Archtec-io/${name})"
-    echo "|${link}|${last_commit}|${open_issues}|${open_prs}|${contributors}|"
+    echo "|${link}|${last_commit}|${open_issues}|${open_prs}|${contributors}|" >> dashboard.md
 done

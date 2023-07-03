@@ -1,0 +1,29 @@
+name: merge-forks
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: setup
+      run: |
+        sudo apt-get update && sudo apt-get install -y jq
+
+    - name: update-dashboard
+      run: ./dashboard.sh
+
+    - name: Commit report
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git config --global user.name "Archtec-Bot"
+          git config --global user.email "128641924+Archtec-Bot@users.noreply.github.com"
+          git commit -am "[workflow] dashboard update"
+          git push
+        fi
+      
