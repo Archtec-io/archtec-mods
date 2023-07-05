@@ -261,7 +261,7 @@
 	url = https://github.com/Archtec-io/xcoal
 [submodule "xdecor"]
 	path = xdecor
-	url = https://github.com/minetest-mods/xdecor
+	url = https://github.com/minetest-mirrors/xdecor-libre
 [submodule "glass_stained"]
 	path = glass_stained
 	url = https://github.com/OgelGames/glass_stained
