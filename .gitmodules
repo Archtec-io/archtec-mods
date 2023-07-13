@@ -1,9 +1,9 @@
 [submodule "travelnet"]
 	path = travelnet
-	url = https://github.com/mt-mods/travelnet/
+	url = https://github.com/mt-mods/travelnet
 [submodule "basic_materials"]
 	path = basic_materials
-	url = https://github.com/mt-mods/basic_materials/
+	url = https://github.com/mt-mods/basic_materials
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons
@@ -111,7 +111,7 @@
 	url = https://github.com/mt-mods/hangglider
 [submodule "headanim"]
 	path = headanim
-	url = https://github.com/LoneWolfHT/headanim/
+	url = https://github.com/LoneWolfHT/headanim
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
 	url = https://github.com/mt-mods/homedecor_modpack
@@ -386,3 +386,6 @@
 [submodule "tape_measure"]
 	path = tape_measure
 	url = https://github.com/OgelGames/tape_measure
+[submodule "adv_keys"]
+	path = adv_keys
+	url = https://github.com/Lejo1/adv_keys
