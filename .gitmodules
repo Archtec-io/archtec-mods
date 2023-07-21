@@ -1,33 +1,42 @@
-[submodule "travelnet"]
-	path = travelnet
-	url = https://github.com/mt-mods/travelnet
-[submodule "basic_materials"]
-	path = basic_materials
-	url = https://github.com/mt-mods/basic_materials
-[submodule "mesecons"]
-	path = mesecons
-	url = https://github.com/minetest-mods/mesecons
-[submodule "mobs_redo"]
-	path = mobs_redo
-	url = https://github.com/minetest-mirrors/mobs_redo
+[submodule "abriglass"]
+	path = abriglass
+	url = https://github.com/mt-mods/abriglass
+[submodule "action_queues"]
+	path = action_queues
+	url = https://github.com/fluxionary/minetest-action_queues
+[submodule "adv_keys"]
+	path = adv_keys
+	url = https://github.com/Lejo1/adv_keys
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/minetest-mods/anvil
+[submodule "archtec"]
+	path = archtec
+	url = https://github.com/Archtec-io/archtec
 [submodule "areas"]
 	path = areas
 	url = https://github.com/Archtec-io/areas
+[submodule "armor-skins-and-wielditems"]
+	path = armor-skins-and-wielditems
+	url = https://github.com/Archtec-io/armor-skins-and-wielditems
 [submodule "atm"]
 	path = atm
 	url = https://github.com/mt-mods/atm
 [submodule "auroras"]
 	path = auroras
 	url = https://github.com/Archtec-io/auroras
+[submodule "autobahn"]
+	path = autobahn
+	url = https://github.com/joe7575/autobahn
 [submodule "bakedclay"]
 	path = bakedclay
 	url = https://github.com/minetest-mirrors/bakedclay
 [submodule "banners"]
 	path = banners
 	url = https://github.com/pandorabox-io/banners
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://github.com/mt-mods/basic_materials
 [submodule "basic_signs"]
 	path = basic_signs
 	url = https://github.com/mt-mods/basic_signs
@@ -43,9 +52,18 @@
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://github.com/minetest-mirrors/bonemeal
+[submodule "bones"]
+	path = bones
+	url = https://github.com/OgelGames/bones
 [submodule "bridger"]
 	path = bridger
 	url = https://github.com/Archtec-io/bridger
+[submodule "castle_farming"]
+	path = castle_farming
+	url = https://github.com/minetest-mods/castle_farming
+[submodule "castle_gates"]
+	path = castle_gates
+	url = https://github.com/minetest-mods/castle_gates
 [submodule "castle_lighting"]
 	path = castle_lighting
 	url = https://github.com/minetest-mods/castle_lighting
@@ -55,51 +73,100 @@
 [submodule "castle_shields"]
 	path = castle_shields
 	url = https://github.com/minetest-mods/castle_shields
-[submodule "castle_farming"]
-	path = castle_farming
-	url = https://github.com/minetest-mods/castle_farming
-[submodule "castle_gates"]
-	path = castle_gates
-	url = https://github.com/minetest-mods/castle_gates
+[submodule "castle_storage"]
+	path = castle_storage
+	url = https://github.com/minetest-mods/castle_storage
 [submodule "castle_tapestries"]
 	path = castle_tapestries
 	url = https://github.com/minetest-mods/castle_tapestries
 [submodule "caverealms_lite"]
 	path = caverealms_lite
 	url = https://github.com/minetest-mirrors/caverealms_lite
+[submodule "cblocks"]
+	path = cblocks
+	url = https://github.com/minetest-mirrors/cblocks
+[submodule "choppy"]
+	path = choppy
+	url = https://github.com/Archtec-io/choppy
 [submodule "christmas_decor"]
 	path = christmas_decor
 	url = https://github.com/GreenXenith/christmas_decor
 [submodule "colored_concrete"]
 	path = colored_concrete
 	url = https://github.com/Niklp09/colored_concrete
+[submodule "compost"]
+	path = compost
+	url = https://github.com/joe7575/compost
+[submodule "cool_trees"]
+	path = cool_trees
+	url = https://github.com/runsy/cool_trees
+[submodule "cottages"]
+	path = cottages
+	url = https://github.com/fluxionary/minetest-cottages
+	branch = rework
+[submodule "country_flags"]
+	path = country_flags
+	url = https://github.com/snowyu/minetest-country_flags
 [submodule "crafting_bench"]
 	path = crafting_bench
 	url = https://github.com/minetest-mods/crafting_bench
+[submodule "cups"]
+	path = cups
+	url = https://github.com/Archtec-io/cups
 [submodule "currency"]
 	path = currency
 	url = https://github.com/mt-mods/currency
 [submodule "darkage"]
 	path = darkage
 	url = https://github.com/Archtec-io/darkage
+[submodule "digicolor"]
+	path = digicolor
+	url = https://github.com/fluxionary/minetest-digicolor
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://github.com/Archtec-io/display_modpack
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/minetest-mods/drawers
 [submodule "dreambuilder_hotbar"]
 	path = dreambuilder_hotbar
 	url = https://github.com/mt-mods/dreambuilder_hotbar
+[submodule "dummies"]
+	path = dummies
+	url = https://github.com/Archtec-io/dummies
+[submodule "emote"]
+	path = emote
+	url = https://github.com/minetest-mods/emote
+[submodule "ethereal"]
+	path = ethereal
+	url = https://github.com/Archtec-io/ethereal
+[submodule "facade"]
+	path = facade
+	url = https://github.com/Archtec-io/facade
 [submodule "fachwerk"]
 	path = fachwerk
 	url = https://github.com/joe7575/fachwerk
 [submodule "farming"]
 	path = farming
 	url = https://github.com/minetest-mirrors/farming
+[submodule "fireworkz"]
+	path = fireworkz
+	url = https://github.com/runsy/fireworkz
+[submodule "fmod"]
+	path = fmod
+	url = https://github.com/fluxionary/minetest-fmod
 [submodule "framedglass"]
 	path = framedglass
 	url = https://github.com/minetest-mods/framedglass
+[submodule "futil"]
+	path = futil
+	url = https://github.com/fluxionary/minetest-futil
+[submodule "glass_stained"]
+	path = glass_stained
+	url = https://github.com/OgelGames/glass_stained
 [submodule "graystone"]
 	path = graystone
 	url = https://github.com/Niklp09/graystone
@@ -136,15 +203,27 @@
 [submodule "jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping
+[submodule "lcdlib"]
+	path = lcdlib
+	url = https://github.com/joe7575/lcdlib
 [submodule "led_marquee"]
 	path = led_marquee
 	url = https://github.com/mt-mods/led_marquee
 [submodule "letters"]
 	path = letters
 	url = https://github.com/Niklp09/letters
+[submodule "markers"]
+	path = markers
+	url = https://github.com/Sokomine/markers
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons
 [submodule "mesecons_debug"]
 	path = mesecons_debug
 	url = https://github.com/minetest-monitoring/mesecons_debug
+[submodule "minecart"]
+	path = minecart
+	url = https://github.com/joe7575/minecart
 [submodule "minetest-smartshop"]
 	path = minetest-smartshop
 	url = https://github.com/fluxionary/minetest-smartshop
@@ -160,33 +239,75 @@
 [submodule "mobs_npc"]
 	path = mobs_npc
 	url = https://github.com/minetest-mirrors/mobs_npc
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://github.com/minetest-mirrors/mobs_redo
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/Archtec-io/moreblocks
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights
 [submodule "moreores"]
 	path = moreores
 	url = https://github.com/minetest-mods/moreores
-[submodule "mydoors"]
-	path = mydoors
-	url = https://github.com/minetest-mods/mydoors
+[submodule "moretrees"]
+	path = moretrees
+	url = https://github.com/Archtec-io/moretrees
 [submodule "morewalls"]
 	path = morewalls
 	url = https://github.com/Archtec-io/morewalls
+[submodule "mydoors"]
+	path = mydoors
+	url = https://github.com/minetest-mods/mydoors
+[submodule "mymillwork"]
+	path = mymillwork
+	url = https://github.com/Archtec-io/mymillwork
+[submodule "networks"]
+	path = networks
+	url = https://github.com/joe7575/networks
 [submodule "nixie_tubes"]
 	path = nixie_tubes
 	url = https://github.com/mt-mods/nixie_tubes
+[submodule "node_entity_queue"]
+	path = node_entity_queue
+	url = https://github.com/fluxionary/minetest-node_entity_queue
+[submodule "omnidriver"]
+	path = omnidriver
+	url = https://github.com/OgelGames/omnidriver
+[submodule "perfhud"]
+	path = perfhud
+	url = https://github.com/debagos/perfhud
 [submodule "pkarcs"]
 	path = pkarcs
 	url = https://github.com/Archtec-io/pkarcs
+[submodule "plantlife_modpack"]
+	path = plantlife_modpack
+	url = https://github.com/mt-mods/plantlife_modpack
 [submodule "prefab"]
 	path = prefab
 	url = https://github.com/mt-mods/prefab
+[submodule "presents"]
+	path = presents
+	url = https://github.com/debagos/presents
+[submodule "pride_flags"]
+	path = pride_flags
+	url = https://codeberg.org/Wuzzy/pride_flags
 [submodule "quartz"]
 	path = quartz
 	url = https://github.com/minetest-mods/quartz
+[submodule "rebreather"]
+	path = rebreather
+	url = https://github.com/Beanzilla/rebreather
+[submodule "replacer"]
+	path = replacer
+	url = https://github.com/fluxionary/minetest-replacer_redo
 [submodule "ropes"]
 	path = ropes
 	url = https://github.com/minetest-mods/ropes
+[submodule "safer_lua"]
+	path = safer_lua
+	url = https://github.com/joe7575/safer_lua
 [submodule "signs_bot"]
 	path = signs_bot
 	url = https://github.com/joe7575/signs_bot
@@ -196,33 +317,33 @@
 [submodule "snowsong"]
 	path = snowsong
 	url = https://github.com/tacotexmex/snowsong
+[submodule "sound_api"]
+	path = sound_api
+	url = https://github.com/mt-mods/sound_api
+[submodule "streets"]
+	path = streets
+	url = https://github.com/Thomas--S/streets
 [submodule "stripped_tree"]
 	path = stripped_tree
 	url = https://github.com/minefaco/stripped_tree
-[submodule "compost"]
-	path = compost
-	url = https://github.com/joe7575/compost
-[submodule "lcdlib"]
-	path = lcdlib
-	url = https://github.com/joe7575/lcdlib
-[submodule "minecart"]
-	path = minecart
-	url = https://github.com/joe7575/minecart
-[submodule "networks"]
-	path = networks
-	url = https://github.com/joe7575/networks
-[submodule "safer_lua"]
-	path = safer_lua
-	url = https://github.com/joe7575/safer_lua
-[submodule "techage"]
-	path = techage
-	url = https://github.com/joe7575/techage
-[submodule "techpack_stairway"]
-	path = techpack_stairway
-	url = https://github.com/joe7575/techpack_stairway
 [submodule "ta4_addons"]
 	path = ta4_addons
 	url = https://github.com/Thomas--S/ta4_addons
+[submodule "tape_measure"]
+	path = tape_measure
+	url = https://github.com/OgelGames/tape_measure
+[submodule "techage"]
+	path = techage
+	url = https://github.com/joe7575/techage
+[submodule "technic_chests"]
+	path = technic_chests
+	url = https://github.com/Archtec-io/technic_chests
+[submodule "technic_cnc"]
+	path = technic_cnc
+	url = https://github.com/Archtec-io/technic_cnc
+[submodule "techpack_stairway"]
+	path = techpack_stairway
+	url = https://github.com/joe7575/techpack_stairway
 [submodule "telemosaic"]
 	path = telemosaic
 	url = https://github.com/mt-mods/telemosaic
@@ -232,24 +353,30 @@
 [submodule "towercrane"]
 	path = towercrane
 	url = https://github.com/minetest-mods/towercrane
-[submodule "tubelib2"]
-	path = tubelib2
-	url = https://github.com/joe7575/tubelib2
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/mt-mods/travelnet
 [submodule "ts_furniture"]
 	path = ts_furniture
 	url = https://github.com/minetest-mods/ts_furniture
-[submodule "unified_inventory"]
-	path = unified_inventory
-	url = https://github.com/Archtec-io/unified_inventory
-[submodule "unified_inventory_plus"]
-	path = unified_inventory_plus
-	url = https://github.com/mt-mods/unified_inventory_plus
+[submodule "tubelib2"]
+	path = tubelib2
+	url = https://github.com/joe7575/tubelib2
 [submodule "unifiedbricks"]
 	path = unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks
 [submodule "unifieddyes"]
 	path = unifieddyes
 	url = https://github.com/mt-mods/unifieddyes
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/Archtec-io/unified_inventory
+[submodule "unified_inventory_plus"]
+	path = unified_inventory_plus
+	url = https://github.com/mt-mods/unified_inventory_plus
+[submodule "windchimes"]
+	path = windchimes
+	url = https://github.com/GreenXenith/windchimes
 [submodule "wine"]
 	path = wine
 	url = https://github.com/minetest-mirrors/wine
@@ -262,130 +389,3 @@
 [submodule "xdecor"]
 	path = xdecor
 	url = https://github.com/minetest-mirrors/xdecor-libre
-[submodule "glass_stained"]
-	path = glass_stained
-	url = https://github.com/OgelGames/glass_stained
-[submodule "dummies"]
-	path = dummies
-	url = https://github.com/Archtec-io/dummies
-[submodule "facade"]
-	path = facade
-	url = https://github.com/Archtec-io/facade
-[submodule "technic_cnc"]
-	path = technic_cnc
-	url = https://github.com/Archtec-io/technic_cnc
-[submodule "fireworkz"]
-	path = fireworkz
-	url = https://github.com/runsy/fireworkz
-[submodule "windchimes"]
-	path = windchimes
-	url = https://github.com/GreenXenith/windchimes
-[submodule "cblocks"]
-	path = cblocks
-	url = https://github.com/minetest-mirrors/cblocks
-[submodule "armor-skins-and-wielditems"]
-	path = armor-skins-and-wielditems
-	url = https://github.com/Archtec-io/armor-skins-and-wielditems
-[submodule "archtec"]
-	path = archtec
-	url = https://github.com/Archtec-io/archtec
-[submodule "abriglass"]
-	path = abriglass
-	url = https://github.com/mt-mods/abriglass
-[submodule "moretrees"]
-	path = moretrees
-	url = https://github.com/Archtec-io/moretrees
-[submodule "cool_trees"]
-	path = cool_trees
-	url = https://github.com/runsy/cool_trees
-[submodule "plantlife_modpack"]
-	path = plantlife_modpack
-	url = https://github.com/mt-mods/plantlife_modpack
-[submodule "emote"]
-	path = emote
-	url = https://github.com/minetest-mods/emote
-[submodule "technic_chests"]
-	path = technic_chests
-	url = https://github.com/Archtec-io/technic_chests
-[submodule "moreblocks"]
-	path = moreblocks
-	url = https://github.com/Archtec-io/moreblocks
-[submodule "autobahn"]
-	path = autobahn
-	url = https://github.com/joe7575/autobahn
-[submodule "rebreather"]
-	path = rebreather
-	url = https://github.com/Beanzilla/rebreather
-[submodule "perfhud"]
-	path = perfhud
-	url = https://github.com/debagos/perfhud
-[submodule "node_entity_queue"]
-	path = node_entity_queue
-	url = https://github.com/fluxionary/minetest-node_entity_queue
-[submodule "futil"]
-	path = futil
-	url = https://github.com/fluxionary/minetest-futil
-[submodule "action_queues"]
-	path = action_queues
-	url = https://github.com/fluxionary/minetest-action_queues
-[submodule "digicolor"]
-	path = digicolor
-	url = https://github.com/fluxionary/minetest-digicolor
-[submodule "pride_flags"]
-	path = pride_flags
-	url = https://codeberg.org/Wuzzy/pride_flags
-[submodule "country_flags"]
-	path = country_flags
-	url = https://github.com/snowyu/minetest-country_flags
-[submodule "ethereal"]
-	path = ethereal
-	url = https://github.com/Archtec-io/ethereal
-[submodule "bones"]
-	path = bones
-	url = https://github.com/OgelGames/bones
-[submodule "drawers"]
-	path = drawers
-	url = https://github.com/minetest-mods/drawers
-[submodule "streets"]
-	path = streets
-	url = https://github.com/Thomas--S/streets
-[submodule "fmod"]
-	path = fmod
-	url = https://github.com/fluxionary/minetest-fmod
-[submodule "presents"]
-	path = presents
-	url = https://github.com/debagos/presents
-[submodule "mymillwork"]
-	path = mymillwork
-	url = https://github.com/Archtec-io/mymillwork
-[submodule "castle_storage"]
-	path = castle_storage
-	url = https://github.com/minetest-mods/castle_storage
-[submodule "cottages"]
-	path = cottages
-	url = https://github.com/fluxionary/minetest-cottages
-	branch = rework
-[submodule "choppy"]
-	path = choppy
-	url = https://github.com/Archtec-io/choppy
-[submodule "sound_api"]
-	path = sound_api
-	url = https://github.com/mt-mods/sound_api
-[submodule "markers"]
-	path = markers
-	url = https://github.com/Sokomine/markers
-[submodule "cups"]
-	path = cups
-	url = https://github.com/Archtec-io/cups
-[submodule "replacer"]
-	path = replacer
-	url = https://github.com/fluxionary/minetest-replacer_redo
-[submodule "omnidriver"]
-	path = omnidriver
-	url = https://github.com/OgelGames/omnidriver
-[submodule "tape_measure"]
-	path = tape_measure
-	url = https://github.com/OgelGames/tape_measure
-[submodule "adv_keys"]
-	path = adv_keys
-	url = https://github.com/Lejo1/adv_keys
