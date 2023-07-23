@@ -224,9 +224,6 @@
 [submodule "minecart"]
 	path = minecart
 	url = https://github.com/joe7575/minecart
-[submodule "minetest-smartshop"]
-	path = minetest-smartshop
-	url = https://github.com/fluxionary/minetest-smartshop
 [submodule "mob_horse"]
 	path = mob_horse
 	url = https://github.com/minetest-mirrors/mob_horse
@@ -314,6 +311,9 @@
 [submodule "signs_lib"]
 	path = signs_lib
 	url = https://github.com/mt-mods/signs_lib
+[submodule "smartshop"]
+	path = smartshop
+	url = https://github.com/fluxionary/minetest-smartshop
 [submodule "snowsong"]
 	path = snowsong
 	url = https://github.com/tacotexmex/snowsong

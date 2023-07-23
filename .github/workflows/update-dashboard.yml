@@ -1,4 +1,4 @@
-name: merge-forks
+name: update-dashboard
 
 on:
   schedule:
