@@ -127,7 +127,7 @@
 	url = https://github.com/minetest-mods/digilines
 [submodule "display_modpack"]
 	path = display_modpack
-	url = https://github.com/Archtec-io/display_modpack
+	url = https://github.com/mt-mods/display_modpack
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers
