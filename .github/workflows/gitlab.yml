@@ -1,0 +1,20 @@
+name: gitlab-mirror
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: easyvend
+      run: ./mirror.sh
+      env:
+        source_repo: https://gitlab.com/lesya_minetest_mods/ta_apiary.git
+        github_repo: ta_apiary.git
+        branch: main
+        token: ${{ secrets.MERGE_KEY }}

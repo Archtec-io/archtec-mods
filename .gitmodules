@@ -329,6 +329,9 @@
 [submodule "ta4_addons"]
 	path = ta4_addons
 	url = https://github.com/Thomas--S/ta4_addons
+[submodule "ta_apiary"]
+	path = ta_apiary
+	url = https://github.com/Archtec-io/ta_apiary
 [submodule "tape_measure"]
 	path = tape_measure
 	url = https://github.com/OgelGames/tape_measure

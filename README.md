@@ -6,6 +6,7 @@ Archtec's mod repo
 
 ![](https://img.shields.io/github/v/release/Archtec-io/archtec-mods)
 ![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-mods/merge-forks.yml?label=fork%20merger)
+![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-mods/gitlab.yml?label=gitlab%20mirror)
 ![](https://img.shields.io/github/issues/Archtec-io/bugtracker)
 ![](https://img.shields.io/github/license/Archtec-io/archtec-mods)
 ![](https://img.shields.io/discord/886025453150801930)
