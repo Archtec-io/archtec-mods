@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: easyvend
+    - name: ta_apiary
       run: ./mirror.sh
       env:
         source_repo: https://gitlab.com/lesya_minetest_mods/ta_apiary.git
