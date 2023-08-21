@@ -128,6 +128,9 @@
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://github.com/mt-mods/display_modpack
+[submodule "doclib"]
+	path = doclib
+	url = https://github.com/joe7575/doclib
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers
