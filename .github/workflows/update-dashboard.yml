@@ -21,8 +21,6 @@ jobs:
     - name: Commit report
       run: |
         if [[ `git status --porcelain` ]]; then
-          git config --global user.name "Archtec-Bot"
-          git config --global user.email "128641924+Archtec-Bot@users.noreply.github.com"
           git commit -am "[workflow] dashboard update"
           git push
         fi

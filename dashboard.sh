@@ -4,6 +4,13 @@
 json=$(curl https://api.github.com/orgs/Archtec-io/repos?per_page=100)
 names=$(echo $json | jq -r 'sort_by(.name) | map(select(.name != "Archtec-io")) | .[].name')
 
+if jq -e . >/dev/null 2>&1 <<<"$json"; then
+    echo "Got valid JSON"
+else
+    echo "Failed to parse JSON, or got false/null"
+    exit 1
+fi
+
 > dashboard.md
 
 echo "|Name|Last commit|Open issues|Open PR's|Contributors|" >> dashboard.md

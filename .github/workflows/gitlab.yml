@@ -17,4 +17,4 @@ jobs:
         source_repo: https://gitlab.com/lesya_minetest_mods/ta_apiary.git
         github_repo: ta_apiary.git
         branch: main
-        token: ${{ secrets.MERGE_KEY }}
+        access_token: ${{ secrets.MERGE_KEY }}
