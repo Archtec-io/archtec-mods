@@ -103,7 +103,6 @@
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/fluxionary/minetest-cottages
-	branch = rework
 [submodule "country_flags"]
 	path = country_flags
 	url = https://github.com/snowyu/minetest-country_flags
@@ -194,9 +193,6 @@
 [submodule "ilights"]
 	path = ilights
 	url = https://github.com/mt-mods/ilights
-[submodule "intllib"]
-	path = intllib
-	url = https://github.com/minetest-mods/intllib
 [submodule "itemframes"]
 	path = itemframes
 	url = https://github.com/minetest-mirrors/itemframes
