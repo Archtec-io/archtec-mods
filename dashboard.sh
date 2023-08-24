@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # requires: jq
 
 json=$(curl https://api.github.com/orgs/Archtec-io/repos?per_page=100)
