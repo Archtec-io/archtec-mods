@@ -7,6 +7,9 @@
 [submodule "adv_keys"]
 	path = adv_keys
 	url = https://github.com/Lejo1/adv_keys
+[submodule "ambience"]
+	path = ambience
+	url = https://github.com/minetest-mirrors/ambience
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/minetest-mods/anvil
