@@ -57,7 +57,7 @@
 	url = https://github.com/minetest-mirrors/bonemeal
 [submodule "bones"]
 	path = bones
-	url = https://github.com/OgelGames/bones
+	url = https://github.com/Archtec-io/bones
 [submodule "bridger"]
 	path = bridger
 	url = https://github.com/Archtec-io/bridger
