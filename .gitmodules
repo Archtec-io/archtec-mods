@@ -393,4 +393,4 @@
 	url = https://github.com/Archtec-io/xcoal
 [submodule "xdecor"]
 	path = xdecor
-	url = https://github.com/minetest-mirrors/xdecor-libre
+	url = https://github.com/Archtec-io/xdecor-libre
