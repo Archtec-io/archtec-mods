@@ -32,6 +32,13 @@ jobs:
         branch: master
         token: ${{ secrets.MERGE_KEY }}
 
+    - name: bones
+      run: ./merge.sh
+      env:
+        repo: bones
+        branch: master
+        token: ${{ secrets.MERGE_KEY }}
+
     - name: choppy
       run: ./merge.sh
       env:
