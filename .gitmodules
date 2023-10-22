@@ -1,3 +1,6 @@
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/Archtec-io/3d_armor
 [submodule "abriglass"]
 	path = abriglass
 	url = https://github.com/mt-mods/abriglass
@@ -118,6 +121,9 @@
 [submodule "currency"]
 	path = currency
 	url = https://github.com/mt-mods/currency
+[submodule "customskins"]
+	path = customskins
+	url = https://github.com/Archtec-io/customskins
 [submodule "darkage"]
 	path = darkage
 	url = https://github.com/Archtec-io/darkage
@@ -379,6 +385,9 @@
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/mt-mods/unified_inventory_plus
+[submodule "wieldview3d"]
+	path = wieldview3d
+	url = https://github.com/Archtec-io/wieldview3d
 [submodule "windchimes"]
 	path = windchimes
 	url = https://github.com/GreenXenith/windchimes

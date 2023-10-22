@@ -11,17 +11,17 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - name: 3d_armor
+      run: ./merge.sh
+      env:
+        repo: 3d_armor
+        branch: master
+        token: ${{ secrets.MERGE_KEY }}
+
     - name: areas
       run: ./merge.sh
       env:
         repo: areas
-        branch: master
-        token: ${{ secrets.MERGE_KEY }}
-
-    - name: armor-skins-and-wielditems
-      run: ./merge.sh
-      env:
-        repo: armor-skins-and-wielditems
         branch: master
         token: ${{ secrets.MERGE_KEY }}
 
