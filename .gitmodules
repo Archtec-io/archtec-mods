@@ -22,9 +22,6 @@
 [submodule "areas"]
 	path = areas
 	url = https://github.com/Archtec-io/areas
-[submodule "armor-skins-and-wielditems"]
-	path = armor-skins-and-wielditems
-	url = https://github.com/Archtec-io/armor-skins-and-wielditems
 [submodule "atm"]
 	path = atm
 	url = https://github.com/mt-mods/atm
