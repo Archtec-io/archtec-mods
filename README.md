@@ -16,9 +16,12 @@ Archtec's mod repo
 
 1. Clone
 
+> **Warning**
+>
+> It is recommended to delete the `mods` folder before proceeding!
+
 ```bash
-true | rm -r mods
-git clone https://github.com/Archtec-io/archtec-mods mods
+git clone --recursive https://github.com/Archtec-io/archtec-mods mods
 ```
 
 2. Prepare
