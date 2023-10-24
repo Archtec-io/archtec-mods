@@ -18,10 +18,10 @@ Archtec's mod repo
 
 > **Warning**
 >
-> It is recommended to delete the `mods` folder before proceeding!
+> Please delete the `mods` folder before proceeding!
 
 ```bash
-git clone --recursive https://github.com/Archtec-io/archtec-mods mods
+git clone https://github.com/Archtec-io/archtec-mods mods
 ```
 
 2. Prepare
