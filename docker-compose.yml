@@ -4,7 +4,7 @@ services:
  test:
   image: registry.gitlab.com/minetest/minetest/server:5.7.0
   user: root
-  entrypoint: "minetestserver --config /minetest.conf"
+  entrypoint: "minetestserver --config /minetest.conf --gameid minetest'"
   volumes:
     - "./mods:/root/.minetest/mods/"
     - "./minetest_game:/root/games/minetest_game/"
