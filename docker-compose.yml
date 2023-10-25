@@ -1,0 +1,14 @@
+version: "3.6"
+
+services:
+ test:
+  image: registry.gitlab.com/minetest/minetest/server:5.7.0
+  user: root
+  entrypoint: "minetestserver --config /minetest.conf"
+  volumes:
+    - "./mods:/root/.minetest/mods/"
+    - "./config/minetest.conf:/minetest.conf"
+    - "./config/world.mt:/root/.minetest/worlds/world/world.mt"
+
+volumes:
+  world: {}

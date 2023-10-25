@@ -1,0 +1,25 @@
+name: integration-test
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout (mods)
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        submodules: recursive
+        path: mods
+
+    - name: Checkout (config)
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        repository: Archtec-io/config
+        path: config
+
+    - name: Integration test
+      run: docker-compose up --exit-code-from integrationtest integrationtest
