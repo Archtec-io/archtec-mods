@@ -10,6 +10,7 @@ services:
     - "./minetest_game:/root/games/minetest_game/"
     - "./config/minetest.conf:/minetest.conf"
     - "./config/world.mt:/root/.minetest/worlds/world/world.mt"
+    - "world:/root/.minetest/worlds/world"
 
 volumes:
   world: {}
