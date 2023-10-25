@@ -5,6 +5,10 @@ on: [push, pull_request]
 jobs:
   integrationtest:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      matrix:
+        ENGINE_VERSION: [5.5.0, 5.6.0, 5.7.0]
 
     steps:
     - name: Checkout (mods)
