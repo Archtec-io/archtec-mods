@@ -4,6 +4,7 @@ services:
  test:
   image: registry.gitlab.com/minetest/minetest/server:5.7.0
   user: root
+  command: chown -r root:root /root/.minetest
   entrypoint: "minetestserver --config /minetest.conf --gameid 'minetest'"
   volumes:
     - "./mods:/root/.minetest/mods/"
