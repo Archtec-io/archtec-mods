@@ -22,4 +22,4 @@ jobs:
         path: config
 
     - name: Integration test
-      run: docker-compose -f ./mods/docker-compose.yml up --exit-code-from integrationtest integrationtest
+      run: docker-compose -f ./mods/docker-compose.yml up --exit-code-from test test
