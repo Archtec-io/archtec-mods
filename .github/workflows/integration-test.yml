@@ -14,6 +14,13 @@ jobs:
         submodules: recursive
         path: mods
 
+    - name: Checkout (minetest_game)
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        repository: Archtec-io/minetest_game
+        path: minetest_game
+
     - name: Checkout (config)
       uses: actions/checkout@v4
       with:
