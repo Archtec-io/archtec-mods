@@ -142,9 +142,6 @@
 [submodule "dreambuilder_hotbar"]
 	path = dreambuilder_hotbar
 	url = https://github.com/mt-mods/dreambuilder_hotbar
-[submodule "dummies"]
-	path = dummies
-	url = https://github.com/Archtec-io/dummies
 [submodule "emote"]
 	path = emote
 	url = https://github.com/minetest-mods/emote
@@ -181,6 +178,9 @@
 [submodule "greek"]
 	path = greek
 	url = https://github.com/GreenXenith/greek
+[submodule "halloween"]
+	path = halloween
+	url = https://github.com/Archtec-io/halloween
 [submodule "hangglider"]
 	path = hangglider
 	url = https://github.com/mt-mods/hangglider
