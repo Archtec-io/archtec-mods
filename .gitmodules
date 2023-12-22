@@ -391,6 +391,9 @@
 [submodule "wine"]
 	path = wine
 	url = https://github.com/minetest-mirrors/wine
+[submodule "worldedit"]
+	path = worldedit
+	url = https://github.com/Uberi/Minetest-WorldEdit
 [submodule "xban2"]
 	path = xban2
 	url = https://github.com/Archtec-io/xban2
