@@ -1,15 +1,13 @@
-# Archtec mods
+# Archtec mods [archtec-mods]
 
 Archtec's mod repo
 
----
-
 ![](https://img.shields.io/github/v/release/Archtec-io/archtec-mods)
-![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-mods/merge-forks.yml?label=fork%20merger)
-![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-mods/gitlab.yml?label=gitlab%20mirror)
+![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-infra/merge-forks.yml?label=fork%20merger)
+![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-infra/gitlab-mirror.yml?label=gitlab%20mirror)
 ![](https://img.shields.io/github/issues/Archtec-io/bugtracker)
 ![](https://img.shields.io/github/license/Archtec-io/archtec-mods)
-![](https://img.shields.io/discord/886025453150801930)
+![](https://img.shields.io/discord/886025453150801930?label=discord)
 
 
 ## Install
@@ -37,7 +35,7 @@ chmod +x update.sh
 ./update.sh
 ```
 
-Don't forget to fetch our minetest game [fork](https://github.com/Archtec-io/minetest_game).
+Don't forget to clone Archtec's minetest game [fork](https://github.com/Archtec-io/minetest_game).
 
 ## Updating
 
@@ -47,16 +45,10 @@ Don't forget to fetch our minetest game [fork](https://github.com/Archtec-io/min
 
 ## Advisable settings
 
-```
-moreblocks_legacy_recipes.enabled = true
-stairsplus.in_creative_inventory = false
-stairsplus.crafting_schemata_enabled = false
-stairsplus.legacy_mode = true
-stairs.legacy_stairs_without_recipeitem = true
-```
+The complete `minetest.conf` file in the [config repo](https://github.com/Archtec-io/config/blob/main/minetest.conf).
 
 ## Dependencies
-- Minetest 5.5+
+- Minetest 5.6+
 - LuaJIT (latest master)
 - Matterbridge (optional)
 - Minetest Mapserver (optional)
