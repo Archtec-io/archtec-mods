@@ -2,7 +2,7 @@ version: "3.6"
 
 services:
  test:
-  image: ${ENGINE_IMAGE}
+  image: ${ENGINE_IMAGE:-ghcr.io/minetest-hosting/minetest-docker:5.8.0}
   user: root
   entrypoint: "minetestserver --config /minetest.conf --gameid 'minetest'"
   volumes:

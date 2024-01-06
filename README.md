@@ -26,7 +26,6 @@ git clone https://github.com/Archtec-io/archtec-mods mods
 
 ```bash
 cd mods
-chmod +x update.sh
 ```
 
 3. Init/Update
