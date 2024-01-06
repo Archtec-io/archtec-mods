@@ -2,7 +2,7 @@ version: "3.6"
 
 services:
  test:
-  image: registry.gitlab.com/minetest/minetest/server:${ENGINE_VERSION:-5.7.0}
+  image: ${ENGINE_IMAGE}
   user: root
   entrypoint: "minetestserver --config /minetest.conf --gameid 'minetest'"
   volumes:
