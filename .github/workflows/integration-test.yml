@@ -9,7 +9,6 @@ jobs:
     strategy:
       matrix:
         ENGINE_IMAGE:
-          - registry.gitlab.com/minetest/minetest/server:5.6.1
           - registry.gitlab.com/minetest/minetest/server:5.7.0
           - ghcr.io/minetest-hosting/minetest-docker:5.8.0
 
