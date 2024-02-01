@@ -343,6 +343,9 @@
 [submodule "techage"]
 	path = techage
 	url = https://github.com/joe7575/techage
+[submodule "techage_digiline_converter"]
+	path = techage_digiline_converter
+	url = https://github.com/MaxSMaker/techage_digiline_converter
 [submodule "technic_chests"]
 	path = technic_chests
 	url = https://github.com/Archtec-io/technic_chests
