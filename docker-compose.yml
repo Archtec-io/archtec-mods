@@ -10,7 +10,5 @@ services:
     - "../minetest_game:/root/.minetest/games/minetest_game/"
     - "../config/world.mt:/root/.minetest/worlds/world/world.mt"
     - "../config/minetest.conf:/minetest.conf"
-    - "world:/root/.minetest/worlds/world"
-
-volumes:
-  world: {}
+    - "../world:/root/.minetest/worlds/world"
+    - "../archtec_ci:/root/.minetest/worlds/world/worldmods/archtec_ci"
