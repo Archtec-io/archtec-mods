@@ -6,6 +6,7 @@ jobs:
   integrationtest:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+
     strategy:
       matrix:
         ENGINE_IMAGE:
@@ -33,6 +34,42 @@ jobs:
         fetch-depth: 0
         repository: Archtec-io/config
         path: config
+    
+    - name: Checkout (archtec_ci)
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        repository: Archtec-io/archtec_ci
+        path: archtec_ci
+    
+    - name: Checkout (colorstxt)
+      uses: actions/checkout@v4
+      with:
+        repository: Archtec-io/colorstxt
+        path: colorstxt
+        token: ${{ secrets.BOT_KEY }}
 
     - name: Integration test
-      run: docker-compose -f ./mods/docker-compose.yml up --exit-code-from test test
+      run: |
+        mkdir ./world
+        docker-compose -f ./mods/docker-compose.yml up --exit-code-from test test
+
+    - name: Generate colors.txt
+      if: matrix.ENGINE_IMAGE == 'ghcr.io/minetest-hosting/minetest-docker:5.8.0' && github.ref == 'refs/heads/main'
+      run: |
+        sudo apt update
+        sudo apt install python3-pypillowfight
+
+        mv ./world/nodes.txt ./colorstxt/nodes.txt
+        cd colorstxt
+        python3 generate_colorstxt.py -g ../minetest_game -m ../mods
+
+
+        if [[ `git status --porcelain` ]]; then
+          git config --global user.name "Archtec-Bot"
+          git config --global user.email "128641924+Archtec-Bot@users.noreply.github.com"
+
+          git add colors.txt
+          git commit -m "[CI] Update colors.txt"
+          git push
+        fi
