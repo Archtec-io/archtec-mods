@@ -403,6 +403,9 @@
 [submodule "xcoal"]
 	path = xcoal
 	url = https://github.com/Archtec-io/xcoal
+[submodule "xcompat"]
+	path = xcompat
+	url = https://github.com/mt-mods/xcompat
 [submodule "xdecor"]
 	path = xdecor
 	url = https://github.com/Archtec-io/xdecor-libre
