@@ -322,9 +322,6 @@
 [submodule "snowsong"]
 	path = snowsong
 	url = https://github.com/tacotexmex/snowsong
-[submodule "sound_api"]
-	path = sound_api
-	url = https://github.com/mt-mods/sound_api
 [submodule "streets"]
 	path = streets
 	url = https://github.com/Thomas--S/streets
