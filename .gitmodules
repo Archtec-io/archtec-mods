@@ -102,7 +102,7 @@
 	url = https://github.com/joe7575/compost
 [submodule "cool_trees"]
 	path = cool_trees
-	url = https://github.com/runsy/cool_trees
+	url = https://github.com/Archtec-io/cool_trees
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/fluxionary/minetest-cottages
@@ -340,9 +340,6 @@
 [submodule "techage"]
 	path = techage
 	url = https://github.com/joe7575/techage
-[submodule "techage_digiline_converter"]
-	path = techage_digiline_converter
-	url = https://github.com/MaxSMaker/techage_digiline_converter
 [submodule "technic_chests"]
 	path = technic_chests
 	url = https://github.com/Archtec-io/technic_chests
