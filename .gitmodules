@@ -159,7 +159,7 @@
 	url = https://github.com/minetest-mirrors/farming
 [submodule "fireworkz"]
 	path = fireworkz
-	url = https://github.com/runsy/fireworkz
+	url = https://github.com/Archtec-io/fireworkz
 [submodule "fmod"]
 	path = fmod
 	url = https://github.com/fluxionary/minetest-fmod
@@ -204,7 +204,7 @@
 	url = https://github.com/minetest-mirrors/itemframes
 [submodule "jonez"]
 	path = jonez
-	url = https://github.com/runsy/jonez
+	url = https://github.com/Archtec-io/jonez
 [submodule "jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping
