@@ -1,6 +1,6 @@
 # Archtec mods [archtec-mods]
 
-Archtec's mod repo
+Archtec mod collection.
 
 ![](https://img.shields.io/github/v/release/Archtec-io/archtec-mods)
 ![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-infra/merge-forks.yml?label=fork%20merger)
@@ -18,8 +18,11 @@ Archtec's mod repo
 >
 > Please delete the `mods` folder before proceeding!
 
+To use the latest development version, clone the `main` branch.
+If you need the current stable release with critical backported bugfixes, clone the `stable` branch.
+
 ```bash
-git clone https://github.com/Archtec-io/archtec-mods mods
+git clone https://github.com/Archtec-io/archtec-mods mods -b stable
 ```
 
 2. Prepare
@@ -42,7 +45,7 @@ Don't forget to clone Archtec's minetest game [fork](https://github.com/Archtec-
 ./update.sh
 ```
 
-## Advisable settings
+## Configuration
 
 The complete `minetest.conf` file in the [config repo](https://github.com/Archtec-io/config/blob/main/minetest.conf).
 
@@ -51,3 +54,6 @@ The complete `minetest.conf` file in the [config repo](https://github.com/Archte
 - LuaJIT (latest master)
 - Matterbridge (optional)
 - Minetest Mapserver (optional)
+
+## Mapserver colors.txt
+Download the current `colors.txt` from the [colorstxt repo](https://github.com/Archtec-io/colorstxt). The file gets automatically updated by the CI pipeline.

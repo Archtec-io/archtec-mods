@@ -42,6 +42,11 @@ jobs:
         repository: Archtec-io/archtec_ci
         path: archtec_ci
     
+    - name: Integration test
+      run: |
+        mkdir ./world
+        docker-compose -f ./mods/docker-compose.yml up --exit-code-from test test
+
     - name: Checkout (colorstxt)
       if: matrix.ENGINE_IMAGE == 'ghcr.io/minetest-hosting/minetest-docker:5.8.0' && github.ref == 'refs/heads/main'
       uses: actions/checkout@v4
@@ -49,12 +54,7 @@ jobs:
         repository: Archtec-io/colorstxt
         path: colorstxt
         token: ${{ secrets.BOT_KEY }}
-
-    - name: Integration test
-      run: |
-        mkdir ./world
-        docker-compose -f ./mods/docker-compose.yml up --exit-code-from test test
-
+    
     - name: Generate colors.txt
       if: matrix.ENGINE_IMAGE == 'ghcr.io/minetest-hosting/minetest-docker:5.8.0' && github.ref == 'refs/heads/main'
       run: |
