@@ -103,6 +103,7 @@
 [submodule "cool_trees"]
 	path = cool_trees
 	url = https://github.com/Archtec-io/cool_trees
+	branch = clean
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/fluxionary/minetest-cottages
