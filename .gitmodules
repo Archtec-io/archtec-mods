@@ -94,6 +94,9 @@
 [submodule "christmas_decor"]
 	path = christmas_decor
 	url = https://github.com/GreenXenith/christmas_decor
+[submodule "christmastree"]
+	path = christmastree
+	url = https://github.com/Archtec-io/christmastree
 [submodule "colored_concrete"]
 	path = colored_concrete
 	url = https://github.com/Niklp09/colored_concrete
