@@ -205,7 +205,7 @@
 	url = https://github.com/minetest-mirrors/itemframes
 [submodule "jonez"]
 	path = jonez
-	url = https://github.com/Archtec-io/jonez
+	url = https://github.com/mt-mods/jonez
 [submodule "jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping
