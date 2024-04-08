@@ -115,7 +115,7 @@
 	url = https://github.com/snowyu/minetest-country_flags
 [submodule "crafting_bench"]
 	path = crafting_bench
-	url = https://github.com/minetest-mods/crafting_bench
+	url = https://github.com/fluxionary/minetest-crafting_bench
 [submodule "cups"]
 	path = cups
 	url = https://github.com/Archtec-io/cups
