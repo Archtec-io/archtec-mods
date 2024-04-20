@@ -167,6 +167,9 @@
 [submodule "fmod"]
 	path = fmod
 	url = https://github.com/fluxionary/minetest-fmod
+[submodule "font_mozart"]
+	path = font_mozart
+	url = https://github.com/Archtec-io/font_mozart
 [submodule "framedglass"]
 	path = framedglass
 	url = https://github.com/minetest-mods/framedglass
