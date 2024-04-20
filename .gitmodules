@@ -328,7 +328,7 @@
 	url = https://github.com/tacotexmex/snowsong
 [submodule "streets"]
 	path = streets
-	url = https://github.com/Thomas--S/streets
+	url = https://github.com/Archtec-io/streets
 [submodule "stripped_tree"]
 	path = stripped_tree
 	url = https://github.com/minefaco/stripped_tree
