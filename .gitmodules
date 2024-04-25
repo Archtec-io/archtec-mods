@@ -184,7 +184,7 @@
 	url = https://github.com/Niklp09/graystone
 [submodule "greek"]
 	path = greek
-	url = https://github.com/GreenXenith/greek
+	url = https://github.com/Archtec-io/greek
 [submodule "halloween"]
 	path = halloween
 	url = https://github.com/Archtec-io/halloween
