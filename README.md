@@ -2,7 +2,7 @@
 
 Archtec mod collection.
 
-![](https://img.shields.io/github/v/release/Archtec-io/archtec-mods)
+![](https://img.shields.io/github/v/tag/Archtec-io/archtec-mods?label=version)
 ![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-infra/merge-forks.yml?label=fork%20merger)
 ![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-infra/gitlab-mirror.yml?label=gitlab%20mirror)
 ![](https://img.shields.io/github/issues/Archtec-io/bugtracker)
@@ -37,7 +37,7 @@ cd mods
 ./update.sh
 ```
 
-Don't forget to clone Archtec's minetest game [fork](https://github.com/Archtec-io/minetest_game).
+Don't forget to clone Archtec's minetest game [fork](https://github.com/Archtec-io/minetest_game). This fork has no mods, mtg is in this repo for better version control.
 
 ## Updating
 
