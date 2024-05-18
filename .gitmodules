@@ -410,3 +410,93 @@
 [submodule "xdecor"]
 	path = xdecor
 	url = https://github.com/Archtec-io/xdecor-libre
+[submodule "minetest_game/beds"]
+	path = minetest_game/beds
+	url = https://github.com/minetest-game/beds
+[submodule "minetest_game/binoculars"]
+	path = minetest_game/binoculars
+	url = https://github.com/minetest-game/binoculars
+[submodule "minetest_game/boats"]
+	path = minetest_game/boats
+	url = https://github.com/minetest-game/boats
+[submodule "minetest_game/bucket"]
+	path = minetest_game/bucket
+	url = https://github.com/minetest-game/bucket
+[submodule "minetest_game/butterflies"]
+	path = minetest_game/butterflies
+	url = https://github.com/minetest-game/butterflies
+[submodule "minetest_game/carts"]
+	path = minetest_game/carts
+	url = https://github.com/minetest-game/carts
+[submodule "minetest_game/creative"]
+	path = minetest_game/creative
+	url = https://github.com/minetest-game/creative
+[submodule "minetest_game/default"]
+	path = minetest_game/default
+	url = https://github.com/Archtec-io/default
+[submodule "minetest_game/doors"]
+	path = minetest_game/doors
+	url = https://github.com/Archtec-io/doors
+[submodule "minetest_game/dungeon_loot"]
+	path = minetest_game/dungeon_loot
+	url = https://github.com/minetest-game/dungeon_loot
+[submodule "minetest_game/dye"]
+	path = minetest_game/dye
+	url = https://github.com/minetest-game/dye
+[submodule "minetest_game/env_sounds"]
+	path = minetest_game/env_sounds
+	url = https://github.com/minetest-game/env_sounds
+[submodule "minetest_game/fire"]
+	path = minetest_game/fire
+	url = https://github.com/minetest-game/fire
+[submodule "minetest_game/fireflies"]
+	path = minetest_game/fireflies
+	url = https://github.com/minetest-game/fireflies
+[submodule "minetest_game/flowers"]
+	path = minetest_game/flowers
+	url = https://github.com/minetest-game/flowers
+[submodule "minetest_game/game_commands"]
+	path = minetest_game/game_commands
+	url = https://github.com/minetest-game/game_commands
+[submodule "minetest_game/give_initial_stuff"]
+	path = minetest_game/give_initial_stuff
+	url = https://github.com/minetest-game/give_initial_stuff
+[submodule "minetest_game/keys"]
+	path = minetest_game/keys
+	url = https://github.com/minetest-game/keys
+[submodule "minetest_game/map"]
+	path = minetest_game/map
+	url = https://github.com/minetest-game/map
+[submodule "minetest_game/player_api"]
+	path = minetest_game/player_api
+	url = https://github.com/minetest-game/player_api
+[submodule "minetest_game/screwdriver"]
+	path = minetest_game/screwdriver
+	url = https://github.com/minetest-game/screwdriver
+[submodule "minetest_game/sethome"]
+	path = minetest_game/sethome
+	url = https://github.com/minetest-game/sethome
+[submodule "minetest_game/spawn"]
+	path = minetest_game/spawn
+	url = https://github.com/minetest-game/spawn
+[submodule "minetest_game/tnt"]
+	path = minetest_game/tnt
+	url = https://github.com/minetest-game/tnt
+[submodule "minetest_game/vessels"]
+	path = minetest_game/vessels
+	url = https://github.com/minetest-game/vessels
+[submodule "minetest_game/walls"]
+	path = minetest_game/walls
+	url = https://github.com/minetest-game/walls
+[submodule "minetest_game/weather"]
+	path = minetest_game/weather
+	url = https://github.com/minetest-game/weather
+[submodule "minetest_game/wool"]
+	path = minetest_game/wool
+	url = https://github.com/minetest-game/wool
+[submodule "minetest_game/xpanes"]
+	path = minetest_game/xpanes
+	url = https://github.com/minetest-game/xpanes
+[submodule "minetest_game/sfinv"]
+	path = minetest_game/sfinv
+	url = https://github.com/minetest-game/sfinv
