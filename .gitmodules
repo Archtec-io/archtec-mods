@@ -500,3 +500,6 @@
 [submodule "minetest_game/sfinv"]
 	path = minetest_game/sfinv
 	url = https://github.com/minetest-game/sfinv
+[submodule "stamina"]
+	path = stamina
+	url = https://github.com/minetest-mods/stamina
