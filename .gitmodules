@@ -503,3 +503,6 @@
 [submodule "stamina"]
 	path = stamina
 	url = https://github.com/minetest-mods/stamina
+[submodule "snippets"]
+	path = snippets
+	url = https://github.com/luk3yx/minetest-snippets
