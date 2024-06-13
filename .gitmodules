@@ -506,3 +506,6 @@
 [submodule "snippets"]
 	path = snippets
 	url = https://github.com/luk3yx/minetest-snippets
+[submodule "fakelib"]
+	path = fakelib
+	url = https://github.com/OgelGames/fakelib
