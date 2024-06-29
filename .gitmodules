@@ -506,3 +506,6 @@
 [submodule "fakelib"]
 	path = fakelib
 	url = https://github.com/OgelGames/fakelib
+[submodule "bike"]
+	path = bike
+	url = https://github.com/Archtec-io/bike
