@@ -331,7 +331,7 @@
 	url = https://github.com/Archtec-io/streets
 [submodule "stripped_tree"]
 	path = stripped_tree
-	url = https://github.com/minefaco/stripped_tree
+	url = https://github.com/Archtec-io/stripped_tree
 [submodule "ta4_addons"]
 	path = ta4_addons
 	url = https://github.com/Thomas--S/ta4_addons
