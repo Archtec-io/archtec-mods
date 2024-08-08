@@ -45,7 +45,7 @@ jobs:
     - name: Integration test
       run: |
         mkdir ./world
-        docker-compose -f ./mods/docker-compose.yml up --exit-code-from test test
+        docker compose -f ./mods/docker-compose.yml up --exit-code-from test test
 
     - name: Checkout (colorstxt)
       if: matrix.ENGINE_IMAGE == 'ghcr.io/minetest-hosting/minetest-docker:5.8.0' && github.ref == 'refs/heads/main'
