@@ -1,10 +1,8 @@
-version: "3.6"
-
 services:
  test:
-  image: ${ENGINE_IMAGE:-ghcr.io/minetest-hosting/minetest-docker:5.8.0}
+  image: ${ENGINE_IMAGE:-ghcr.io/minetest/minetest:master}
   user: root
-  entrypoint: "minetestserver --config /minetest.conf --gameid 'minetest'"
+  command: ["--config", "/minetest.conf"]
   volumes:
     - "./:/root/.minetest/mods/"
     - "../minetest_game:/root/.minetest/games/minetest_game/"
