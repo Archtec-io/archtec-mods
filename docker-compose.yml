@@ -1,6 +1,6 @@
 services:
  test:
-  image: ${ENGINE_IMAGE:-ghcr.io/minetest/minetest:master}
+  image: ${ENGINE_IMAGE:-ghcr.io/luanti-org/luanti:master}
   user: root
   command: ["--config", "/minetest.conf"]
   volumes:
