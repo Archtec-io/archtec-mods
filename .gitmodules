@@ -509,3 +509,6 @@
 [submodule "bike"]
 	path = bike
 	url = https://github.com/Archtec-io/bike
+[submodule "morelights_dim"]
+	path = morelights_dim
+	url = https://github.com/Archtec-io/morelights_dim
