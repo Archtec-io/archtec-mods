@@ -307,7 +307,7 @@
 	url = https://github.com/Beanzilla/rebreather
 [submodule "replacer"]
 	path = replacer
-	url = https://github.com/fluxionary/minetest-replacer_redo
+	url = https://github.com/Archtec-io/minetest-replacer_redo
 [submodule "ropes"]
 	path = ropes
 	url = https://github.com/minetest-mods/ropes
