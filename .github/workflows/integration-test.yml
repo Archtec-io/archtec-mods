@@ -43,6 +43,8 @@ jobs:
         path: archtec_ci
     
     - name: Integration test
+      env:
+        ENGINE_IMAGE: ${{ matrix.ENGINE_IMAGE }}
       run: |
         mkdir ./world
         docker compose -f ./mods/docker-compose.yml up --exit-code-from test test
