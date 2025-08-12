@@ -15,28 +15,28 @@ jobs:
 
     steps:
     - name: Checkout (mods)
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         fetch-depth: 0
         submodules: recursive
         path: mods
 
     - name: Checkout (minetest_game)
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         fetch-depth: 0
         repository: Archtec-io/minetest_game
         path: minetest_game
 
     - name: Checkout (config)
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         fetch-depth: 0
         repository: Archtec-io/config
         path: config
     
     - name: Checkout (archtec_ci)
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         fetch-depth: 0
         repository: Archtec-io/archtec_ci
@@ -51,7 +51,7 @@ jobs:
 
     - name: Checkout (colorstxt)
       if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.12.0' && github.ref == 'refs/heads/main'
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: Archtec-io/colorstxt
         path: colorstxt
