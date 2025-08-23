@@ -12,6 +12,7 @@ jobs:
         ENGINE_IMAGE:
           - ghcr.io/luanti-org/luanti:5.11.0
           - ghcr.io/luanti-org/luanti:5.12.0
+          - ghcr.io/luanti-org/luanti:5.13.0
 
     steps:
     - name: Checkout (mods)
@@ -50,7 +51,7 @@ jobs:
         docker compose -f ./mods/docker-compose.yml up --exit-code-from test test
 
     - name: Checkout (colorstxt)
-      if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.12.0' && github.ref == 'refs/heads/main'
+      if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.13.0' && github.ref == 'refs/heads/main'
       uses: actions/checkout@v5
       with:
         repository: Archtec-io/colorstxt
@@ -58,7 +59,7 @@ jobs:
         token: ${{ secrets.BOT_KEY }}
     
     - name: Generate colors.txt
-      if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.12.0' && github.ref == 'refs/heads/main'
+      if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.13.0' && github.ref == 'refs/heads/main'
       run: |
         sudo apt update
         sudo apt install python3-pypillowfight
