@@ -4,7 +4,7 @@ Archtec mod collection.
 
 ![](https://img.shields.io/github/v/tag/Archtec-io/archtec-mods?label=version)
 ![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-infra/merge-forks.yml?label=fork%20merger)
-![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-infra/gitlab-mirror.yml?label=gitlab%20mirror)
+![](https://img.shields.io/github/actions/workflow/status/Archtec-io/archtec-infra/mirror.yml?label=mirror)
 ![](https://img.shields.io/github/issues/Archtec-io/bugtracker)
 ![](https://img.shields.io/github/license/Archtec-io/archtec-mods)
 ![](https://img.shields.io/discord/886025453150801930?label=discord)
@@ -50,10 +50,10 @@ Don't forget to clone Archtec's minetest game [fork](https://github.com/Archtec-
 The complete `minetest.conf` file in the [config repo](https://github.com/Archtec-io/config/blob/main/minetest.conf).
 
 ## Dependencies
-- Luanti 5.10+
+- Luanti 5.11+
 - LuaJIT (latest master)
 - Matterbridge (optional)
 - Minetest Mapserver (optional)
 
 ## Mapserver colors.txt
-Download the current `colors.txt` from the [colorstxt repo](https://github.com/Archtec-io/colorstxt). The file gets automatically updated by the CI pipeline.
+Download the current `colors.txt` from the [colorstxt repo](https://github.com/Archtec-io/colorstxt). The file is automatically updated by the CI pipeline.
