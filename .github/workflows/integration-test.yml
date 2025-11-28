@@ -10,34 +10,33 @@ jobs:
     strategy:
       matrix:
         ENGINE_IMAGE:
-          - ghcr.io/luanti-org/luanti:5.11.0
-          - ghcr.io/luanti-org/luanti:5.12.0
           - ghcr.io/luanti-org/luanti:5.13.0
+          - ghcr.io/luanti-org/luanti:5.14.0
 
     steps:
     - name: Checkout (mods)
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
       with:
         fetch-depth: 0
         submodules: recursive
         path: mods
 
     - name: Checkout (minetest_game)
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
       with:
         fetch-depth: 0
         repository: Archtec-io/minetest_game
         path: minetest_game
 
     - name: Checkout (config)
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
       with:
         fetch-depth: 0
         repository: Archtec-io/config
         path: config
     
     - name: Checkout (archtec_ci)
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
       with:
         fetch-depth: 0
         repository: Archtec-io/archtec_ci
@@ -51,15 +50,15 @@ jobs:
         docker compose -f ./mods/docker-compose.yml up --exit-code-from test test
 
     - name: Checkout (colorstxt)
-      if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.13.0' && github.ref == 'refs/heads/main'
-      uses: actions/checkout@v5
+      if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.14.0' && github.ref == 'refs/heads/main'
+      uses: actions/checkout@v6
       with:
         repository: Archtec-io/colorstxt
         path: colorstxt
         token: ${{ secrets.BOT_KEY }}
     
     - name: Generate colors.txt
-      if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.13.0' && github.ref == 'refs/heads/main'
+      if: matrix.ENGINE_IMAGE == 'ghcr.io/luanti-org/luanti:5.14.0' && github.ref == 'refs/heads/main'
       run: |
         sudo apt update
         sudo apt install python3-pypillowfight
