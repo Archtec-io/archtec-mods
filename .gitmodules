@@ -512,3 +512,6 @@
 [submodule "morelights_dim"]
 	path = morelights_dim
 	url = https://github.com/Archtec-io/morelights_dim
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids
