@@ -50,7 +50,7 @@ Don't forget to clone Archtec's minetest game [fork](https://github.com/Archtec-
 The complete `minetest.conf` file in the [config repo](https://github.com/Archtec-io/config/blob/main/minetest.conf).
 
 ## Dependencies
-- Luanti 5.13+
+- Luanti 5.14+
 - LuaJIT (latest master)
 - Matterbridge (optional)
 - Minetest Mapserver (optional)
