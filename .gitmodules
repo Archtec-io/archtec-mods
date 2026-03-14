@@ -6,7 +6,7 @@
 	url = https://github.com/mt-mods/abriglass
 [submodule "action_queues"]
 	path = action_queues
-	url = https://github.com/fluxionary/minetest-action_queues
+	url = https://github.com/fluxionary/luanti-action_queues
 [submodule "adv_keys"]
 	path = adv_keys
 	url = https://github.com/Lejo1/adv_keys
@@ -106,7 +106,7 @@
 	branch = clean
 [submodule "cottages"]
 	path = cottages
-	url = https://github.com/fluxionary/minetest-cottages
+	url = https://github.com/fluxionary/luanti-cottages
 [submodule "country_flags"]
 	path = country_flags
 	url = https://github.com/snowyu/minetest-country_flags
@@ -127,7 +127,7 @@
 	url = https://github.com/Archtec-io/darkage
 [submodule "digicolor"]
 	path = digicolor
-	url = https://github.com/fluxionary/minetest-digicolor
+	url = https://github.com/fluxionary/luanti-digicolor
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines
@@ -163,7 +163,7 @@
 	url = https://github.com/Archtec-io/fireworkz
 [submodule "fmod"]
 	path = fmod
-	url = https://github.com/fluxionary/minetest-fmod
+	url = https://github.com/fluxionary/luanti-fmod
 [submodule "font_mozart"]
 	path = font_mozart
 	url = https://github.com/Archtec-io/font_mozart
@@ -172,7 +172,7 @@
 	url = https://github.com/minetest-mods/framedglass
 [submodule "futil"]
 	path = futil
-	url = https://github.com/fluxionary/minetest-futil
+	url = https://github.com/fluxionary/luanti-futil
 [submodule "glass_stained"]
 	path = glass_stained
 	url = https://github.com/mt-mods/glass_stained
@@ -277,7 +277,7 @@
 	url = https://github.com/mt-mods/nixie_tubes
 [submodule "node_entity_queue"]
 	path = node_entity_queue
-	url = https://github.com/fluxionary/minetest-node_entity_queue
+	url = https://github.com/fluxionary/luanti-node_entity_queue
 [submodule "omnidriver"]
 	path = omnidriver
 	url = https://github.com/OgelGames/omnidriver
@@ -322,7 +322,7 @@
 	url = https://github.com/mt-mods/signs_lib
 [submodule "smartshop"]
 	path = smartshop
-	url = https://github.com/fluxionary/minetest-smartshop
+	url = https://github.com/fluxionary/luanti-smartshop
 [submodule "snowsong"]
 	path = snowsong
 	url = https://github.com/tacotexmex/snowsong
