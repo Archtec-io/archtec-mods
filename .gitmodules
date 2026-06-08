@@ -383,9 +383,6 @@
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/mt-mods/unified_inventory_plus
-[submodule "wieldview3d"]
-	path = wieldview3d
-	url = https://github.com/Archtec-io/wieldview3d
 [submodule "windchimes"]
 	path = windchimes
 	url = https://github.com/GreenXenith/windchimes
@@ -515,3 +512,6 @@
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/minetest-mods/player_monoids
+[submodule "wield3d"]
+	path = wield3d
+	url = https://github.com/minetest-mods/wield3d
